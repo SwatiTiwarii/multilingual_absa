@@ -1,0 +1,1627 @@
+text,aspects,polarities
+Nos sentimos muy a gusto.,['RESTAURANT'],['positive']
+"Buen servicio, ambiente Acogedor  y tranquilo, comida bien.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Muy recomendable,['RESTAURANT'],['positive']
+"La atencion es muy buena, los camareros estan muy pendientes de uno todo el tiempo.",['SERVICE'],['positive']
+"Y la comida espectacular, por eso lo bueno se paga...",['FOOD'],['positive']
+"Lo unico que vi flojo es que pedi un poco de salsa provenzal y nos la cobraron, por lo demas todo bien.","['RESTAURANT', 'FOOD']","['negative', 'positive']"
+Nada especial.,['RESTAURANT'],['neutral']
+"Me habían comentado maravillas y está bien, pero nada más.",['RESTAURANT'],['neutral']
+"Las carnes bien, pero como muchas otras.",['FOOD'],['neutral']
+"El precio, por lo que es la comida, para mi gusto es elevado.",['FOOD'],['negative']
+"la calidad del producto, el servicio, el entorno todo fue excelente","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+9reinas ya sido una de las mejores experiencias que hemos tenido en los últimos años.,['RESTAURANT'],['positive']
+El servicio es muy bueno y la calidad de la comida al mismo nivel.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Los precios adecuados  y bien puedes hacer un mayor o menor gasto en función de tu bolsillo por que la carta es muy amplia.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Volveremos.,['RESTAURANT'],['positive']
+"Fabuloso, muy atentos la comida excelente y un ambiente estupendo.","['RESTAURANT', 'AMBIENCE', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+Mis amigos quedaron encantados y nosotros tambien.,['RESTAURANT'],['positive']
+Vale la pena ir y probar sus carnes.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"El restaurante es precioso, moderno y acogedor.",['AMBIENCE'],['positive']
+La comida está deliciosa y es de calidad.,['FOOD'],['positive']
+El servicio muy atento.,['SERVICE'],['positive']
+Hemos ido varias veces a cenar al 9reinas y nunca defrauda!,['RESTAURANT'],['positive']
+La calidad de las carnes el excelente servicio y su buena bodega lo convierte en un lugar espectacular!!,"['DRINKS', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Sin duda repetiremos.,['RESTAURANT'],['positive']
+restaurante excelente con carne de alta calidad.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Nos encanto!,['RESTAURANT'],['positive']
+"La verdad es que todo muy bien; el servicio, la comida y la apariencia, todo correcto.","['RESTAURANT', 'AMBIENCE', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+Hemos ido a cenar y la verdad es que nos ha encantado.,['RESTAURANT'],['positive']
+el sitio es muy bonito la comida estupenda y el trato inmejorable.,"['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+totalmente recomendable,['RESTAURANT'],['positive']
+"Ha sido todo excelente, la calidad, los tiempos, el ambiente (quizas demasiado iluminado) y el servicio.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'neutral', 'positive', 'positive']"
+El dulce de leche es divino.,['FOOD'],['positive']
+Primera visita a este Restaurante con resultado satisfactorio.,['RESTAURANT'],['positive']
+"Calidad, profesionalidad y precio acorde con la oferta.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Casi como en Argentina.,['RESTAURANT'],['positive']
+Fantastico!!!,['RESTAURANT'],['positive']
+Delicioso!!!,['RESTAURANT'],['positive']
+resaturante fantástico con excelente comida y servicio aun mejor!!!!,"['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"tremenda amabilidad, es un gustazo!","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Servicio muy bueno, faltan platitos para el pan, pero a pesar de eso, todo correcto.",['SERVICE'],['positive']
+Estaria bien musica argentina.,['AMBIENCE'],['negative']
+Los precios estan dentro de los parametros normales.,['RESTAURANT'],['neutral']
+Estuve ayer en una comida de negocio con un cliente y tanto el servicio como la calidad de la comida fué excelente.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Enhorabuena!!,['RESTAURANT'],['positive']
+"Un buen restaurant, aunque algo caro para la cantidad de comida que se sirve en el plato.","['RESTAURANT', 'FOOD']","['positive', 'negative']"
+"La tira de asado normal, nada extraordinaria.",['FOOD'],['neutral']
+Muy bien los postres y el matambre.,['FOOD'],['positive']
+"Se podria mejorar la iluminación en la planta superior, demasiada luz plana.",['AMBIENCE'],['negative']
+Recomendable 100%.,['RESTAURANT'],['positive']
+"Un sitio precioso, con un ambiente exquisito.",['AMBIENCE'],['positive']
+El servicio inmejorable y la comida excepcional!!,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Exquisitas las ensaladas y la carne.,['FOOD'],['positive']
+Abundante comida.,['FOOD'],['positive']
+Seguro que no te quedas con hambre y la claidad excelente.,['FOOD'],['positive']
+La calidad de las carnes es insuperable y quiero destacar el excelente servicio recibido.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Si no has probado sus carnes te estas perdiendo algo muy grande!,['FOOD'],['positive']
+Estuve cenando con unos amigos y la comida estuvo riquísima y el trato de las camareras excelente.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Repetiremos seguro!!,['RESTAURANT'],['positive']
+Lo mejor: dejarse aconsejar por ellos a la hora de elegir plato.,['SERVICE'],['positive']
+Me encanto!!!,['RESTAURANT'],['positive']
+Sobran las palabras...volveré seguro!,['RESTAURANT'],['positive']
+El restaurants comimos muy bien y ademas un servicio encantador y eficiente.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"En algunos momentos, nos llegamos a preguntar si lo que teníamos en la boca era carne o un trozo de neumático.",['FOOD'],['negative']
+Decepcionante...,['RESTAURANT'],['negative']
+"La calidad de la comida excelente, el servicio super amable y siempre atento.","['SERVICE', 'FOOD']","['positive', 'positive']"
+El ambiente muy acogedor.,['AMBIENCE'],['positive']
+Una experiencia culinaria inolvidable.,['RESTAURANT'],['positive']
+Comida y Servicio estupendo,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Todo muy bueno,['RESTAURANT'],['positive']
+"ambiente íntimo y tranquilo, buen trato y buena calidad en las carnes.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+El precio un tanto elevado pero razonable.,['RESTAURANT'],['neutral']
+"Excelente carta, carnes exquisitas, especialidades riquísimas, ambiente íntimo y servicio atento.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+Muy buena relación calidad-precio.,['FOOD'],['positive']
+"Buen servicio, ambiente y excelente comida.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"La comida muy rica, pero el local extremadamente ruidoso (sobre todo el piso de arriba).","['AMBIENCE', 'FOOD']","['positive', 'neutral']"
+Llegaba un momento en que apetecía irse por el ruido.,['AMBIENCE'],['negative']
+Poca intimidad.,['AMBIENCE'],['negative']
+"Quizás bueno para cenas de grupo, pero parejas abstenerse.",['RESTAURANT'],['neutral']
+"Local casi perfecto, cocina impecable, cantidad más que abundante, extensa carta (comida y vinos) y precio adecuado a lo que oferta.","['FOOD', 'DRINKS', 'RESTAURANT', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+"Muy recomendable, por tanto.",['RESTAURANT'],['positive']
+"Como salvedad, diré que, a excepción del jefe de sala (o propietario, cosa que desconozco), atento, educado y detallista, el resto del servicio, pinganillos inalámbricos incluidos, no está a la altura del resto, más en lo que respecta a educación y formas que a la capacidad: habría que cuidar aspectos como retirar casi a la carrera platos sin terminar, tutear por defecto u ofrecer el silencio como toda respuesta a la duda del comensal en la elección entre dos opciones.",['SERVICE'],['positive']
+"Es una pena que inviertiendo exitosamente en lo complicado (local, materia prima, imagen, sitio web) se pase por alto lo básico: un par de camareros díscolos que hagan rebajar la nota de un cliente de un excelente a un notable alto.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'negative', 'positive']"
+"Fue una cena perfecta, por el lugar y sobre todo por la comida.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Tienen una carta bastante extensa donde cada plato parece mejor que el anterior.,['FOOD'],['positive']
+"Para los amantes de la carne no dudéis en pedir el Solomillo del Chef, exquisíto.",['FOOD'],['positive']
+<->Aunque los productos sean de calidad el precio es elevado,['FOOD'],['positive']
+Sólo puedo decir cosas buenas de este restaurante.,['RESTAURANT'],['positive']
+Comimos muy bien y bien atendidos.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Las gambas fresquísimas.,['FOOD'],['positive']
+Una maravilla como está decorado.,['AMBIENCE'],['positive']
+Muy agradable y con unas vistas increíbles.,['AMBIENCE'],['positive']
+"De la comida no tengo nada que decir, pero las mesas se tocan, el servicio no es amable, en definitiva muy caro para lo que es calida precio totalmente desequilibrada.","['RESTAURANT', 'SERVICE', 'AMBIENCE', 'FOOD']","['neutral', 'negative', 'negative', 'negative']"
+La comida muy buena.,['FOOD'],['positive']
+Lo que no me gusta es el servicio.,['SERVICE'],['negative']
+"El último día que fuimos pedimos ostras y nos sentaron mal, a parte de que el camarero que nos sirvió servía el cava chorreando toda la mesa...pasará mucho tiempo hasta q vuelva...","['RESTAURANT', 'SERVICE', 'FOOD']","['negative', 'negative', 'negative']"
+La única sonrisa que vimos entre el personal fue de la chica que nos condujo a nuestra mesa.,['SERVICE'],['negative']
+"A partir de ahi, caras serias (por no decir de mal humor), distraidas, de los camareros... que a veces se hacían esperar, y otras veces se abalanzaban para liquidar la mesa.",['SERVICE'],['negative']
+"Cubiertos mal puestos, sin la mas mínima delicadeza.",['SERVICE'],['negative']
+"Platos mal presentados, sobrevolando las cabezas de los comensales.",['SERVICE'],['negative']
+El servicio realmente malo.,['SERVICE'],['negative']
+"La comida decente, aunque en relación al precio no estaba a la altura.",['FOOD'],['positive']
+"Lo siento, pero no lo recomiendo en tales condiciones.",['RESTAURANT'],['negative']
+"Ya no es lo que era...Ramon,ha bajado mucho, el servicio, la calidad de la comida, lo unico, la terraza.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['negative', 'positive', 'positive', 'negative']"
+"Sabado pasado, a las 13h, poca gente, o sea,cocina sin agobios, paella,simplemente lamentable.",['FOOD'],['negative']
+"Es una pena,era de lo mejorcito de Barcelona",['RESTAURANT'],['negative']
+Cena de negocio a más de 50 € pp y de primeros: longaniza de vic?,['RESTAURANT'],['negative']
+tal vez del Lidl; anchoas?,['FOOD'],['negative']
+"una o dos pp; de segundo bacalao a la llauna diminuto con ""secas"" de lata / carne con patatas fritas fast food.",['FOOD'],['negative']
+"por el precio podrían haber sido ""peladas y fritas"", no?",['FOOD'],['negative']
+"en fin, lleno de turistas que vienen una sola vez (de los cruceros?)",['AMBIENCE'],['negative']
+muy defraudado por el precio y la calidad; antes no eran así!,"['RESTAURANT', 'FOOD']","['negative', 'negative']"
+El servicio fue perfecto.,['SERVICE'],['positive']
+La cocina deliciosa.,['FOOD'],['positive']
+A través de los años nunca me han defraudado es un valor seguro.,['RESTAURANT'],['positive']
+La relación calidad precio también es buena alrededor de 50 € por persona pero para una cena perfecta no lo considero caro.,['RESTAURANT'],['positive']
+"Arroz caldoso lamentable (para guiris, puede estar hasta bueno) y caro en general.",['FOOD'],['neutral']
+"Muy bueno, calidad, servicio que justifican su precio.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Y de vulgar nada de nada, todo lo contrario.",['RESTAURANT'],['positive']
+Lo recomiendo a los que son capaces de apreciar y valorar el placer gastronómico.,['FOOD'],['positive']
+"Personalmente este restaurante, ya por el servicio y la actitud de los camareros, del maitrê es excelente, creo que este restaurante se merece una estrella michelin, ya que se come muy bien, son unas grandes personas.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+El local es bonito y la situación inmejorable.,"['LOCATION', 'AMBIENCE']","['positive', 'positive']"
+Sin embargo el precio es muy alto y con el tiempo ha ido subiendo de forma espectacular sin que mejore el producto.,['RESTAURANT'],['negative']
+Yo no lo recomiendo.,['RESTAURANT'],['negative']
+Caro.,['RESTAURANT'],['negative']
+La comida siempre bien.,['FOOD'],['positive']
+Si te toca cerca de los ventanales vistas de lujo.,['AMBIENCE'],['positive']
+Comida excelente asi como su el servicio de camarero.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Un tanto caótica la recepción.,['SERVICE'],['negative']
+"En cuanto a la carta, el tartar de lubina, supremo así como sus postres.",['FOOD'],['positive']
+Volveremos.,['RESTAURANT'],['positive']
+gracias,['RESTAURANT'],['positive']
+Óptimo en la calidad del producto y su elaboración.,['FOOD'],['positive']
+Servicio excelente.,['SERVICE'],['positive']
+Homogeneidad imbatible.,['AMBIENCE'],['positive']
+No se puede pedir más.,['RESTAURANT'],['positive']
+He visitado este restaurante cada vez que viajo a Barcelona y siempre ha sido excelso.,['RESTAURANT'],['positive']
+"No puedo más que recomendarlo ya que, sin duda, es uno de los valores más seguros de la Ciudad Condal.",['RESTAURANT'],['positive']
+Servicio impecable y se come de maravilla!,"['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Buen reestaurante, buena calidad en los platos.","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+El único defecto es que es muy ruidoso y en algunos lugares las mesas estan muy pegadas unas a otras y creo que por el precio que pagas  podrían tener las mesas mas separadas.,['AMBIENCE'],['negative']
+Buenisima la langosta a la plancha,['FOOD'],['positive']
+Lugar perfecto.,['RESTAURANT'],['positive']
+Comida digna y servicio excelente.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Para ir y repetir.,['RESTAURANT'],['positive']
+excelemte cocina y excelente servicio,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Es una pasada.,['RESTAURANT'],['positive']
+La atención y esmero del servicio y de su maitre son dignos de premio.,['SERVICE'],['positive']
+Un valor seguro.,['RESTAURANT'],['positive']
+Producto y cocina catalana y marinera de un muy buen nivel y servicio excelente.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Un restaurante muy homogéneo y que nunca defraudará.,['RESTAURANT'],['positive']
+"Repito cada vez que puedo, con la familia o con la empresa.",['RESTAURANT'],['positive']
+"La atención es exquisita y la comida (fideua,arroces y entrantes) de muy buena calidad.","['SERVICE', 'FOOD']","['positive', 'positive']"
+El precio lo vale y el entorno más.,"['RESTAURANT', 'AMBIENCE']","['positive', 'positive']"
+Muy recomendable.,['RESTAURANT'],['positive']
+No es nada barato pero ofrece calidad y los platos están bien cocinados y con elementos frescos.,"['RESTAURANT', 'FOOD']","['positive', 'negative']"
+"Buen ambiente, servicio mediocre.","['SERVICE', 'AMBIENCE']","['positive', 'negative']"
+"fuimos a cenar para un cumpleaños con amigos y fue fantastico, un buen trato  y la comida excelente, sobretodo el solomillo a los 3 quesos y la cabra caliente sobre pure de manzana...","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Calidad/Precio :elevado , la ubicación y el entorno muy agradable, pero en el interior hay un exceso de ruido que hacer sentirse incómodo y no disfrutar de la comida, sinceramente prefiero otros donde me encuentro mas agusto.","['LOCATION', 'FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'positive', 'negative', 'negative']"
+"Un lugar magnífico para comer buen marisco y cualquiera de sus arroces o suquet, aunque muy recomendable, no lo recomendaría para una cena íntima romántica, puesto que las conversaciones de las mmesas vecinas son muy animadas, puesto que el local se presta a ello, y el ambiente es de familias o grupos en general.","['AMBIENCE', 'FOOD']","['positive', 'negative']"
+"Servicio excelente, vistas magníficas y excelente relación calidad-precio, siempre teniendo en cuenta que la calidad es muy alta.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Más que recomendable.,['RESTAURANT'],['positive']
+"he ido varias veces pero el sitio es para turistas y aunque la calidad es buena el precio es exagerado y el servicio deja mucho que desear, sobretodo en cuanto a las reservas.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'negative', 'negative']"
+solo iré como ultimo recurso.,['RESTAURANT'],['negative']
+"Me parece un lugar estupendo, la comida está buenisima y el servicio estupendo, dignos de admirar.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+un lugar para ir con alguien especial(como fuí yo..),['RESTAURANT'],['positive']
+Estuve de nuevo en el Restaurante Barceloneta y pude disfrutar otra vez de una comida excelente:,['FOOD'],['positive']
+"Unos entrantes magníficos: Buñuelos de Bacalao, Revuelto de ceps con butifarra y gambas al ajillo.",['FOOD'],['positive']
+De postres el magnífico Tiramisú y un Queso Gallego de Tetilla con Dulce de Membrillo.,['FOOD'],['positive']
+"El producto de primera, la elaboración excelente y el servicio impecable.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"La luz natural que entra por la vidriera de la terraza, añadida a la decoración tan acogedora da una sensación de bienestar difícil de conseguir en otros lugares.",['AMBIENCE'],['positive']
+"En fin, que voy a regresar tantas veces como pueda y siempre que visite Barcelona.",['RESTAURANT'],['positive']
+Uno de mis restaurantes favoritos.,['RESTAURANT'],['positive']
+"Como ya he leído en algún comentario, de los pocos sitios donde se paga lo que se come, y se come bien, muy bien.",['FOOD'],['positive']
+Es un sitio fantástico por la buena calidad de sus productos.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Los arroces y suquets inmejorables.,['FOOD'],['positive']
+"El local impresionante, con una terraza preciosa con vistas al puerto.",['AMBIENCE'],['positive']
+"El servicio, mas que correcto.",['SERVICE'],['positive']
+"La comida, excepcional para mi gusto.",['FOOD'],['positive']
+"Los precios, depende de lo que pidas, puedes estar entre 40 y 60 euros por persona.",['RESTAURANT'],['neutral']
+"Destacar los arroces, la caldereta de bogavante, las zamburiñas al horno y los platos de ""picoteo"" y los pescados en general.",['FOOD'],['positive']
+Inmejorable calidad.,['FOOD'],['positive']
+Especialmente exquisitos los buñuelos de bacalao y el arroz caldoso ah y el jamón de vicio.,['FOOD'],['positive']
+Una de las mejores paellas que he comido en un restaurante en Barcelona.,['FOOD'],['positive']
+Además tiene una terraza impresionamnte.,['AMBIENCE'],['positive']
+Si tienes cuidado con lo que pides puedes comer muy bien sin dejarte la cartera.,['FOOD'],['positive']
+Del todo recomendable.,['RESTAURANT'],['positive']
+"Posiblemente el restaurante con la mejor terraza de Barcelona, con vistas al mar y una comida estupenda.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Servicio bueno pero poca simpatía.,['SERVICE'],['neutral']
+Arroz muy bueno pero escasa ración.,['FOOD'],['positive']
+Los vinos carísimos.,['DRINKS'],['negative']
+Mesa interior sin vistas.,['AMBIENCE'],['negative']
+No repetiremos.,['RESTAURANT'],['negative']
+Somos clientes asiduos .segir que lo bordais GRACIAS .,['RESTAURANT'],['positive']
+"restaurante de lujo autentico, con un pianista muy ameno que te hace pasar una cena romantica especialmente si vas acompañado de alguien especial.","['RESTAURANT', 'AMBIENCE']","['positive', 'positive']"
+muy buena paella,['FOOD'],['positive']
+Un valor seguro para comer.,['RESTAURANT'],['positive']
+Toda la comida muy buena y un servicio al mismo nivel.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"La paella, una de las mejores de la ciudad.",['FOOD'],['positive']
+Nos ha encantado.,['RESTAURANT'],['positive']
+"Cenar en la terraza: fantastico, el servicio: excelente, la comida: fabulosa, el precio: bueno, pelín caro, pero vale la pena.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'negative']"
+Repetiremos.,['RESTAURANT'],['positive']
+<->No hay nada negativo.,['RESTAURANT'],['positive']
+<+>La excelencia en el producto y la homogeneidad.,['FOOD'],['positive']
+<+>este restaurante siempre es excelente.,['RESTAURANT'],['positive']
+<+>Nunca falla.,['RESTAURANT'],['positive']
+<+>Es un valor seguro.,['RESTAURANT'],['positive']
+"Como siempre, no decepciona, magnificos pescados, atencion extraordinaria y vistas de Barcelona mientras almuerzas en la terraza muy bonitas","['RESTAURANT', 'AMBIENCE', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+Una comida deliciosa.,['FOOD'],['positive']
+Excelente arroz y buen trato.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+La localizacion es muy buena.,['LOCATION'],['positive']
+Si tienes oportunidad de comer en la terraza...un plus.,['AMBIENCE'],['positive']
+Gran clasico de la barceloneta con un servicio inmejorable!!!,['SERVICE'],['positive']
+Hay que repetir!!!,['RESTAURANT'],['positive']
+Excelente materia prima y fantástico marco en la terraza con vistas al Muelle de España.,"['AMBIENCE', 'FOOD']","['positive', 'positive']"
+Servicio muy amable y profesional.,['SERVICE'],['positive']
+"Sin dudarlo, volveremos!!!",['RESTAURANT'],['positive']
+Solicité en la reserva terraza y creo que estuve en una de las mejores mesas con terraza.,['AMBIENCE'],['positive']
+El servicio muy correcto tanto en atención como en educación.,['SERVICE'],['positive']
+Rapidez en la gestión del pedido y la calidad acorde al precio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Quizás los postres y los vinos un poco caros.,"['DRINKS', 'FOOD']","['negative', 'negative']"
+Zumo naranja 6€ me parece un poco exagerado.,['DRINKS'],['negative']
+"comimos bien,sevicio amable,tardaron 2 plato mucho tiempo y no me gusto que aun quedando en la paella  y fideua mas racion,se la llevaron sin preguntar.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+Solo puedo dar un 10 a su cocina de una calidad y frescura incomparable.,['FOOD'],['positive']
+la única pega o sorpresa fue a la hora del café ya que me sirvieron el mismo que en el Burger King.,['DRINKS'],['negative']
+por lo demás 10.,['RESTAURANT'],['positive']
+"El servicio y el local es muy aceptable,pero la relación calidad precio esta descompensada.se le tendría que explicar al cocinero,que el pulpo no se calienta en el microondas y menos si se le pone el pimentón y el aceite ya que se quema y reseca.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'negative']"
+"El resto,pasable y sin mas pretensiones pero no valía el precio que nos cobraron.",['RESTAURANT'],['negative']
+"muy buen servicio, incluido aparca coches, esta todo en el nivel de calidad excelente.","['SERVICE', 'FOOD']","['positive', 'positive']"
+El servicio desconoce la carta que además baja la calidad que solía tener.,"['SERVICE', 'FOOD']","['negative', 'negative']"
+Excelente materia prima y muy buena elaboración.,['FOOD'],['positive']
+Servicio atento.,['SERVICE'],['positive']
+Los platos servidos en su justo momento.,['SERVICE'],['positive']
+Buena cara de vinos.,['DRINKS'],['positive']
+Local con decoración  clásica y marinera.,['AMBIENCE'],['positive']
+Lástima que el tiempo no acompaño para disfrutar de su agradable terraza con vistas al mar,['AMBIENCE'],['positive']
+Volveremos sin duda,['RESTAURANT'],['positive']
+"Buen ambiente con vistas al puerto,  estupenda comida, los arroces muy ricos, el servicio atento y profesional.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"Calidad y buen servicio, son los adjetivos ","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Preparación de los platos, pescado en los dos casos, correcta pero presentación dejaba mucho que desear.","['SERVICE', 'FOOD']","['neutral', 'negative']"
+"Servicio tan atento que al final se hace pesado, urgencia por vaciar los platos de los entrantes compartidos queriendo continuamente servirnos.",['SERVICE'],['negative']
+"11:00 de la noche cocineros empiezan a limpiar cocina; el olor a plancha, pescado y detergente invade la sala.",['AMBIENCE'],['negative']
+"Postres nada atractivos, la misma carta de postres de los últimos 15 años.",['FOOD'],['negative']
+"Una pena, no creo que volvamos",['RESTAURANT'],['negative']
+"Como siempre, servicio muy correcto, rápido y excelente comida.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Comedor espacioso.,['AMBIENCE'],['positive']
+Inmejorables vistas.,['AMBIENCE'],['positive']
+Servicio atento al cliente.,['SERVICE'],['positive']
+Ambiente familiar.,['AMBIENCE'],['positive']
+Cocina inmejorable.,['FOOD'],['positive']
+Notable en general.,['RESTAURANT'],['positive']
+Pescado y marisco muy fresco y sabroso.,['FOOD'],['positive']
+"La terraza por la noche, si el tiempo acompaña, genial (pedirla al hacer la reserva)",['AMBIENCE'],['positive']
+"Muy satisfactoria, recomedare este restaurante entre mis allegados.",['RESTAURANT'],['positive']
+"La comida es buena y el local agradable pero ""permitian fumar"" inconcebible en una zona que decian ""terraza"" y que estaba comunicada con el salon y con toldos bajados.","['AMBIENCE', 'FOOD']","['positive', 'negative']"
+"A pesar de ser un restaurante de pescado y marisco, mi marido encontró buenísimo el filete a la pimienta verde que pidió.",['FOOD'],['positive']
+El trato muy bueno.,['SERVICE'],['positive']
+"Yo pedí una mesa bien situada y atendieron la petición, nos dieron una con muy buenas vistas.",['AMBIENCE'],['positive']
+Celebramos el cumpleaños de mi pareja y todo fue perfecto.,['RESTAURANT'],['positive']
+"Buen servicio, con mucha paciencia y siempre presentes.",['SERVICE'],['positive']
+"Del menu 3 un buen 2ºplato, el primero, de pica-pica, un poco pobre.",['FOOD'],['positive']
+"Seleccioné el restaurante para celebrar mi cumpleaños y me encanto a mi y a todos, la única cosa es que la próxima vez pediremos un poco más alejados de la cocina pq hay mucho jaleo en esa zona.","['RESTAURANT', 'AMBIENCE']","['positive', 'negative']"
+En general todo muy bien y recomendable.,['RESTAURANT'],['positive']
+Tienen un servicio rápido y eficiente.,['SERVICE'],['positive']
+Buena calidad en los productos y un muy buen servicio recibido.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+<->Nada negativo.,['RESTAURANT'],['positive']
+<+>Excelente recepción y incorporación a la mesa.,['SERVICE'],['positive']
+<+>Rapidísima atención por parte del Maitre y de los camareros.,['SERVICE'],['positive']
+"<+>Sugerencias de entrantes y platos principales excelentes, claras y concisas.",['SERVICE'],['positive']
+<+>Todo perfecto.,['RESTAURANT'],['positive']
+"Excelente, como siempre.",['RESTAURANT'],['positive']
+"Excelente, lo recomiendo.",['SERVICE'],['positive']
+"Algunos platos son excesivamente caros teniendo en cuenta la cantidad presentada, pero no nos ha sorprendido.",['FOOD'],['negative']
+"Tal y como dicen los foros y opinion, la calidad del producto es muy buena y la relación calidad precio (de la comida) aceptable.",['FOOD'],['positive']
+El vino tiene un precio totalmente excesivo (3 veces el precio en la tienda.),['DRINKS'],['negative']
+"Respecto del servicio y del lugar indicar que aunque el servicio es bueno, este parece más de un restaurante de menú que no de un restaurnate de 70 euros por persona (deprisa, deprisa, deprisa).",['SERVICE'],['neutral']
+La distancia entre mesas es digna de un restaurante de Menú.,['AMBIENCE'],['negative']
+"En geenral está bien, pero si cuidasen esos pequeños detalles (sobre todo la distancia entre mesas) sería superior.",['RESTAURANT'],['positive']
+Perfecto... Como siempre ...,['RESTAURANT'],['positive']
+"Un buen lugar para comer buen marisco y pescado en un entorno privilegiado y en un local amplio, luminoso y agradable, aunque algo ruidoso (es muy grande).","['AMBIENCE', 'FOOD']","['positive', 'positive']"
+Muy buen servicio y muy cómodo (te aparcan el coche).,['SERVICE'],['positive']
+Nunca defrauda.,['RESTAURANT'],['positive']
+"Productos de calidad óptima, elaborados magníficamente.",['FOOD'],['positive']
+"Siempre es igual de excelente, con un servicio impecable.",['SERVICE'],['positive']
+"Un Jefe de Sala que siempre recuerda y saluda a los cliente habituales, aunque hayan pasado meses desde la última vez que visitaron el restaurante.",['SERVICE'],['positive']
+Un valor seguro.,['RESTAURANT'],['positive']
+"Un ""Blue chip"" de la restauración.",['RESTAURANT'],['positive']
+"Es dificil decidir que es lo más destacable, el servicio, la comida...","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Ambiente un poco cargado, servicio correcto, buena relación calidad/precio.","['FOOD', 'SERVICE', 'AMBIENCE']","['negative', 'positive', 'positive']"
+Es de los pocos sitios que aun quedan donde se paga en función de como se come.,['RESTAURANT'],['positive']
+No es barato pero al menos la calidad esta de acorde con el precio.,['FOOD'],['positive']
+Lo recomiendo.,['RESTAURANT'],['positive']
+Muy buen restaurante.,['RESTAURANT'],['positive']
+Comida y vistas excepcionales.,"['AMBIENCE', 'FOOD']","['positive', 'positive']"
+Como siempre excelente.,['RESTAURANT'],['positive']
+"Hemosido con la idea de tomar el Menú degustación de las Jornadas de la huerta y el cabrito y aunque nos han ofrecido la posibilidad de otras opciones, hemos tomado el que teníamos pensado, respecto al menú, nada que objetar, todo perfecto y de acuerdo a las expectativas, el servicio totalmente correcto y diligente sin caer en la pesadez, total una velada perfecta, como para repetir y recomendar. ","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Lo unico que puedo decir es que la calidad de lo que comimos fue estupenda, pero nos sorprendio la cantidad, que era mas bien escasa. ",['FOOD'],['positive']
+"Reservamos a través  de la pagina web y el menú no nos decepciono, elegimos el menú del cabritillo y lo que nos esperábamos, buena calidad y cantidad mas que aceptable.",['FOOD'],['positive']
+Si pudiera ser un poco mas barato seria perfecto. ,['RESTAURANT'],['neutral']
+"Espectacular, ya dos veces que vamos y me encanta ir a este restaurante.",['RESTAURANT'],['positive']
+"El cabrito, genial.",['FOOD'],['positive']
+"Da una pena no acabarse las patatas, que encima estaban muy buenas…  ",['FOOD'],['positive']
+"Del resto del menú, muy rico.",['FOOD'],['positive']
+Merece la pena ir. ,['RESTAURANT'],['positive']
+"Buena comida, a un precio razonable y con un gran servicio.","['SERVICE', 'FOOD']","['positive', 'neutral']"
+El asado muy bueno. ,['FOOD'],['positive']
+La especialidad del restaurante (cabrito con patatas) es espectacular.,['FOOD'],['positive']
+Además es en el único sitio en el que se puede comer con garantías y gran calidad.,['FOOD'],['positive']
+"Raciones generosas y precios cerrados sin sorpresas, lo cual es muy raro actualmente.",['FOOD'],['positive']
+"Es decir, relación calidad precio muy buena.Los entrantes excelentes (mi debilidad es el huevo pochado).",['FOOD'],['positive']
+No perderse el sorbete de mojito.,['DRINKS'],['positive']
+Ya hemos repetido y volveremos a hacerlo. ,['RESTAURANT'],['positive']
+Muy bien ,['RESTAURANT'],['positive']
+"Fuimos seis personas para una celebración familiar, era nuestra primera vez allí, pedimos el menú de las setas y nos gustó muchísimo, todo muy bien cocinado, cantidades razonables, unas combinaciones de sabores exquisitas, nos quedamos muy satisfechos y con ganas de volver otra vez.",['FOOD'],['positive']
+"El servicio fue bien, rápido y sin problemas.",['SERVICE'],['positive']
+"Espero que sigan siempre con afán de superación y dando la mayor calidad posible, con precios razonables. ","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"La cena nos ha gustado mucho, tanto el menú como la presentación y el servicio.","['SERVICE', 'FOOD']","['positive', 'positive']"
+La carta de vinos y el cava también.,['DRINKS'],['positive']
+Hemos estado muy a gusto.,['RESTAURANT'],['positive']
+La relación calidad-precio muy bien.,['FOOD'],['positive']
+Repetiremos.,['RESTAURANT'],['positive']
+"Fabuloso comienzo de año con una comida estupenda y una estancia genial tanto por el ambiente como por el agradable trato recibido, como en anteriores veces, repetiremos.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+La comida la verdad muy buena pero la oferta q sale aqui luego no es la mismo de alli me salio  5€ mas caro por pers el menu.por lo demas bastante bien ,['FOOD'],['positive']
+"La experiencia en el restaurante “La Bodega de Chema”, ha sido una experiencia muy agradable tanto para mi como para la persona que me acompañaba.",['RESTAURANT'],['positive']
+Decir que la atención por parte de las personas que trabajan en este restaurante fue amable y educada.,['SERVICE'],['positive']
+Toda la comida fue de nuestro agrado pero el cabrito al horno fue realmente espectacular.,['FOOD'],['positive']
+"Un punto a tener muy en cuenta es que en el momento en el cual solicité la cuenta, esta no tenía ningún incremento, siendo exactamente la cantidad que marcaba el menú elegido y reservado por de internet.",['FOOD'],['positive']
+Tal ha sido mi satisfacción que este es un lugar que ya he recomendado a varios de mis amigos.,['RESTAURANT'],['positive']
+"Creo que es algo perfecto tanto para ir en pareja como con los amigos y pienso que nadie que se acerque a cenar, quedará insatisfecho. ",['RESTAURANT'],['positive']
+"Comimos mi marido y yo en el restaurante el sábado pasado, el menú temático de la trufa y el cabrito, es estupendo, equilibrado, bueno quizas demasiado, pero nosotros somos de buen comer y sabemos apreciar lo bueno.",['FOOD'],['positive']
+"Nos sirvieron con agilidad, sin esperas.",['SERVICE'],['positive']
+"El vino HEREDAD “RED”, delicioso y agradable de tomar.",['DRINKS'],['positive']
+"Es interesante el precio, incluyendo el IVA, la calidad de los platos lo merece.",['FOOD'],['positive']
+Seguid así y seguiréis llenando el comedor como siempre. ,['RESTAURANT'],['positive']
+Salimos encantadas del restaurante.,['RESTAURANT'],['positive']
+La comida fue excelente y el servicio inmejorable.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Pienso ponerlo en la lista de mis favoritos ,['RESTAURANT'],['positive']
+Estupendo el cabrito.,['FOOD'],['positive']
+"Muy bueno el detalle de la casa y los entrantres, asi como también una tabla de quesos antes de los postres.",['FOOD'],['positive']
+Todo muy recomendable. ,['RESTAURANT'],['positive']
+"La comida muy bien, estupenda, servicio bueno, un poco lentos.","['SERVICE', 'FOOD']","['positive', 'neutral']"
+Faltó que la casa invitase a un chupito al final. ,['RESTAURANT'],['negative']
+Un menú rico.,['FOOD'],['positive']
+Me ha encantado poder degustar tres entrantes y elegir un segundo.,['FOOD'],['positive']
+Un detalle poder llevarse la comida que sobraba (iba con una persona mayor que no come mucho y le han puesto la corvina sobrante en un envase).,['SERVICE'],['positive']
+Sitio a recordar. ,['RESTAURANT'],['positive']
+Una velada estupenda.,['RESTAURANT'],['positive']
+Servicio inmejorable y la cena fantástica.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"A destacar el cabrito y el sorbete de mandarina, simplemente delicioso.","['DRINKS', 'FOOD']","['positive', 'positive']"
+Toda la cena regada con un gran vino que nos recomendaron en el restaurante.,['DRINKS'],['positive']
+Volveremos seguro.,['RESTAURANT'],['positive']
+Recomendable 100/100 ,['RESTAURANT'],['positive']
+"Como siempre, perfecto….Muy buena relacion calidad precio y un gran servicui ","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Como siempre, fabuloso, además con sólo calentar el horno a 180º durante un momento, luego calientas durante 5 minutos, le echas salsa y a comer.",['FOOD'],['positive']
+Perfecto.,['RESTAURANT'],['positive']
+Nos ha gustado.,['RESTAURANT'],['positive']
+Servicio excelente.,['SERVICE'],['positive']
+Comida exquisita.,['FOOD'],['positive']
+Trato profesional y muy amable ,['SERVICE'],['positive']
+"Estuve el Sábado pasado y la verdad es que me gustó mucho.Moderno,diferente,buen servicio,carta divertida y original.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Las mini hamburguesas de ternasco,ibérico y buey ya de por si merecen una visita. ",['FOOD'],['positive']
+Hay una puntualización importante que no me ha parecido leer en la crítica: el menú cerrado de 30€ es para grupos de un mínimo de 8 personas. ,['FOOD'],['negative']
+"Estuve el Sábado 11 de Febrero, y mi califación global es Buena.",['RESTAURANT'],['positive']
+"La verdad es que la música era genial, genial, es raro en Zaragoza encontrar Bares con música tan buena.",['AMBIENCE'],['positive']
+"La pena era que fuimos a cenar y todavía no era hora de bailar.La cena, regular.",['FOOD'],['neutral']
+"La calidad aceptable, pero la cantidad escasa, eramos 5 chicas, y no muy comedoras, pero los platos eran muy pequeños, sobre todo las croquetas y los buñuelos, la presentación era muy buena, y la atención por parte de los Camareros, inmejorable.","['SERVICE', 'FOOD']","['positive', 'negative']"
+"Las copas económicas, y el show de las Drag’s regulero.En resumen le doy una buena puntuación pero más como bar de copas, que para cenar, (bueno a lo mejor para recenar, o picotear), pero no esperes llenarte, a nos que te gastes un pastón.Volvere?","['DRINKS', 'AMBIENCE']","['positive', 'negative']"
+Hola muy satisfactorio todo empezando por la atención en las reserva respondiendo muy atentamente a la petición y luego muy bien tanto el trato con los camareros y camareras como con el nivel de la cena lo hemos recomendado a todos nuestros amigos que que no son pocos y pronto estaremos allí de nuevo para participar en el caraoke pues soy cantante y creo que allí hay un buen ambienteUn saludo afectuoso ,"['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"Muy bien el trato y a gusto, lo único que para cenar en plan cena romantica resultó un poco incompatible con el tema de la actuación, al estar en una mesa demasiado entre la entrada y la barra del bar, ya que cuando llegaron las amistades de los artistas, y otros clientes, se invadió el ambientillo intimo, y ya no apetecñia mucho seguir allí cenando a la vez que gente toma copas, hubiera sido mejor poneros en una mesa por el fondo, sin ver el trasiego de gente, que al lado del escenario y la puerta de entrada.","['SERVICE', 'AMBIENCE']","['positive', 'negative']"
+la cena muy rica y el servicio muy atento.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"gracias,hasta pronto. ",['RESTAURANT'],['positive']
+Esta bien la verdad!,['RESTAURANT'],['positive']
+"he ido varias veces con gente joven y siempre tiene buenas criticas, claro, sin exagerar!",['RESTAURANT'],['positive']
+"hayyyyyy calamidad….. si ya te lo dije en su momento soy un ex currante de este restaurante por decir algo y os comprendo estuve de jefe de cocina y en fin un desatre y eso que dureun mes,no habia genero,faltaba de todo y el niñato (…) ","['SERVICE', 'FOOD']","['negative', 'negative']"
+Tome dos pinchos en barra ayer 3-03-09 y me parecio todo muy lamentable.,['RESTAURANT'],['negative']
+"Con el nivel que cada dia hay en establecimientos de toda la ciudad (margen izquierda incluida) , es vergonzoso que tarden 10minutos en emplatar 2 pinchos templandolos en salamandra y napando de tosca manera con simple aceite de cebollino.",['SERVICE'],['negative']
+"SIN ENTRAR A VALORAR LOS BOSTEZOS DE LA CAMARERA , las discusiones entre cocina y barra y los tratos con repartidores y representantes sin respetar la presencia de “solo” dos clientes en barra.Ademas deben estar contentos de cobrar entre 3,5 y 5,5 euros por pincho , pero distan mucho de hacer cocina en miniatura buena.","['SERVICE', 'FOOD']","['negative', 'negative']"
+"Una pena , una pena….. ",['RESTAURANT'],['negative']
+Nunca mas!,['RESTAURANT'],['negative']
+"nos sorprendio los precios tan altos, 3,5€ una croqueta.",['FOOD'],['negative']
+lo estabamos comentando mientras mirabamos la carta y el camarero nos debió oir y nos quitó la carta delante de nuestras narices.,['SERVICE'],['negative']
+"Pensabamos que era un despiste, pero no, empezaron a cuchichear el cocinero y camarero, criticandonos y riendose de nosotros y de la manera mas descarada, luego tambien hicieron mofa de un señor que estaba a nuestro lado con su señora.",['SERVICE'],['negative']
+y para colmo nos querian estafar cobrando de mas!!,['SERVICE'],['negative']
+no volveré nunca y me encargaré de no recomendarlo.,['RESTAURANT'],['negative']
+Es una falta de respeto reirte de la gente y mas si son tus clientes.,['SERVICE'],['negative']
+Son unos maleducados. ,['SERVICE'],['negative']
+"estuve la semana pasada y es un sitio lamentablelos camereros , uno es el dueño, son bastante desagadablesla unica que funciona es una chica rubia que hace lo imposible por agradar y tapar al restoson ademas muy carosno vayais ","['RESTAURANT', 'SERVICE']","['negative', 'negative']"
+"Nefastos, recomiendaselo a tu enemigo o a gente que te caiga mal.",['RESTAURANT'],['negative']
+fui con mi mujer y no volveré aunque me regalen la comida.,['RESTAURANT'],['negative']
+una decepción ,['RESTAURANT'],['negative']
+"Copio lo que ya escribí hace unas semanas en otra página web tras mi, también dolorasa, visita a este sótano.” Fui con unos amigos a los que les había dado una buena impresión tomando unas tapas.",['RESTAURANT'],['negative']
+"Hay un listado de sugerencias plastificado y sin precio, incluido en la carta y tan largo como la carta.",['FOOD'],['negative']
+Además te leen aún más sugerencias.,['FOOD'],['negative']
+"Pedimos varias de las sugerencias del listado, porque la carta normal era muy poco original.¡Todas costaron entre 23 y 28 €, hasta las ensaladas!",['FOOD'],['negative']
+"Muy caro, carísimo para la calidad.",['RESTAURANT'],['negative']
+"Además teniendo que correr para salir a tiempo, porque hacen turnos para cenar.",['SERVICE'],['negative']
+¡A estos precios me parece un insulto!,['RESTAURANT'],['negative']
+Yo no voy a volver.,['RESTAURANT'],['negative']
+"Gracias a los dos por darme la informacion, algun dia he ido de tapeo en la barra pero no me ha dado por bajar, no lo hare porque por lo que poneis mas que bajar al salon, bajas a los infiernos.",['RESTAURANT'],['negative']
+"No esta la economia para que la gente pague 60 euracos en una ensalada y una carne, a falta de vino y postre, por persona segun el vino te vas a 80 euros.",['FOOD'],['negative']
+"Hola,yo he estado en este restaurante dos veces y nos gusto bastante.",['RESTAURANT'],['positive']
+"Casualmente también cenamos la tempura y nos encanto, de segundo yo comi cochinillo, venia con huesos (en otros sitios lo dan deshuesado) pero estaba riquisimo, mi mujer pidió corvina y también le encantó, de postre compartimos un coulant de chocolate.la segunda vez fuimos con mis suegros y también les gusto, fue un domindo a comer, picamos jamón, croquetas y otra vez tempura y de segundo arroz negro, en su punto y muy bueno.",['FOOD'],['positive']
+las dos veces precio normal para estos sitios.,['RESTAURANT'],['positive']
+Estuvimos hace unas semanas y no nos gustó nada.,['RESTAURANT'],['negative']
+Nos sentaron en zona de paso habiendo reservado con tres semanas de antelación.,['SERVICE'],['negative']
+"La tempura, un plato treméndamente vulgar en cuanto a su presentación y la calidad.",['FOOD'],['negative']
+El cogote y el bacalao aceptable.,['FOOD'],['neutral']
+Postre también vulgar.,['FOOD'],['negative']
+"El servicio más pendiente de una cena de empresa, por tanto no fue bueno el servicio.",['SERVICE'],['negative']
+Mucha apariencia de modernidad pero nada especial.,['AMBIENCE'],['negative']
+Nosotros no volveremos. ,['RESTAURANT'],['negative']
+Estuve el otro día y me parecio muy bien.,['RESTAURANT'],['positive']
+"El trato fues cordial y la comida esplendida, tuvieron un par de detalles buenos que eso gusta porqeu no en todos los itios lo hacen.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Estuvieron encima en todo moneto y no hacia falta llamarles.,['SERVICE'],['positive']
+La comida estuvo bien en su punto y bien presentada. ,['FOOD'],['positive']
+Yo voy bastante a menudo y me encanta.,['RESTAURANT'],['positive']
+El servicio siempre es correctísimo y la comida muy buena.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"De entrantes siempre pedimos la tempura que está buenísima (pese a los comentarios anteriores), croqueta trufada que es expectacular y el ravioli con longaniza de Graus que está expectacular también.",['FOOD'],['positive']
+"Los segundos he probado varios, pero siempre buenos.",['FOOD'],['positive']
+Lo único que no me convenció fue el magret de pato que estaba pelín soso.,['FOOD'],['negative']
+"Siempre bebemos cava y nos lo sacan muy frio, como debe ser y en pocos sitios te lo sacan correctamente.",['DRINKS'],['positive']
+"El precio es bueno, nada exagerado.",['RESTAURANT'],['positive']
+Sin duda es un sitio que recomiendo. ,['RESTAURANT'],['positive']
+"yo no he tenido el placer de la cocina de este restaurante, pero el trato deja mucho que desear, ayer, con mi bebe de 4 meses y mi pareja intentamos ir al concurso de las tapas que se celebra cada año en zaragoza y nos dijeron de muy malas maneras que en domingo solo se comia a la carta y que no hacian el concurso (que en la propaganda viene anunciado hasta el 25 de noviembre), y ademas nos querían sentar en una zona de paso, con el carrito apartado…en fin, para no volver, y sin probarlo!!!!! ","['RESTAURANT', 'SERVICE']","['negative', 'negative']"
+"No me extraña el comentario de Marta,el propietario de este local debería dedicarse a otros menesteres.",['SERVICE'],['negative']
+La nula educación y su pésima atención son sus credenciales. ,['SERVICE'],['negative']
+"El restaurante bien, con una decoración escueta (”minimalista”) muy agradable, el trato correcto comimos muy bien y no me parecio caro para los tres que fuimos.","['RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"En resumen, comida bien-muy bien, servicio correcto y profesional ","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Estuvimos muy agusto y cenamos muy bien, el menu de temporada, con algun plato de carta que luego nos ajustaron como de menu.",['FOOD'],['positive']
+Todo muy correcto.,['RESTAURANT'],['positive']
+"Creo que es un sitio donde es dificil que algo salga mal, de estos sitios, que siempre aciertas.",['RESTAURANT'],['positive']
+Muy recomedable.,['RESTAURANT'],['positive']
+Nosotros volveremos. ,['RESTAURANT'],['positive']
+"Estuvimos hace poco mi pareja y yo comiendo y resultó todo muy bien, tanto la comida, el vino, el trato, la  decoración… nos gustó todo mucho.","['DRINKS', 'SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+"Por cierto, había niños pequeños y sin problema. ",['RESTAURANT'],['positive']
+"Estuve la semana pasada (entre semana) cenando y fue muy bien.Tanto la atención (muy atentos y dando consejos apropiados), como la comida, y el tiempo de espera.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Tanto el postre como el vino, fueron consejo del maitre, y la verdad que muy acertados. ","['DRINKS', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Hemos comido de menú de temporada ( 26 € ) : Todo bueno, pero sales con la sensación de haber pagado más de lo que deberías ( y eso que no he pagado yo ) .",['FOOD'],['positive']
+"Y el menú para niños es un cuadra cuentas; el menú sigue la lógica de lo que un niño puede comer sin complicaciones y está todo bueno, pero sigue la tónica del resto: caro.Queda la duda de cómo será comer de carta, pero por cuenta propia, habiendo tantas opciones disponibles, no creo que vuelva para comprobarlo. ",['FOOD'],['positive']
+"En Zaragoza hay Restaurantes correctos, buenos, muy buenos,Restaurantes a los que no vuelves, los que pasan desapercibidos, mediocres y pésimos como por ejemplo La Scala.",['RESTAURANT'],['negative']
+Afirmar que en ese local se pueden degustar verdaderas delicias es una auténtica temeridad.,['FOOD'],['negative']
+Para olvidar. ,['RESTAURANT'],['negative']
+Muy bien tanto el servicio como la atención recibida y la cena ,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Hemos estado muy a gusto, buen servicio, buena comida y buena compañia.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Repetiremos. ,['RESTAURANT'],['positive']
+Escriba aquí su comentario…Todo un descubrimiento.,['RESTAURANT'],['positive']
+Hemos comido fenomenal.,['FOOD'],['positive']
+Nos decidimos por el menú de temporada y fué un acierto.,['FOOD'],['positive']
+"Comida elaborada y sabrosa, cantidades generosas y servicio perfecto.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Lo recomiendo totalmente. ,['RESTAURANT'],['positive']
+"Todo estupendo, el restaurante estaba lleno y aun así nos atendieron muy bien ",['SERVICE'],['positive']
+No se puede encontrar mejor relación calidad/precio en Zaragoza.,['FOOD'],['positive']
+"Un menú de 25 euros impecable, el local tiene una atmósfera relajante y el servicio es súper amable y profesional.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+El rogout de manitas prueba la existencia de dios padre.,['FOOD'],['positive']
+Los postres son deliciosos todos.Repetiremos!!!,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Es el primer restaurante de Zaragoza en el que realmente no nos gustó nada.,['RESTAURANT'],['negative']
+"De segundo magret de pato y el postre no lo recuerdo, eso sí, recuerdo que ni fu ni fa.",['FOOD'],['negative']
+La tempura aparte de no estar especialmente buena.,['FOOD'],['negative']
+Tanto a mí como  a otras personas que la probaron no nos sentó bien.,['FOOD'],['negative']
+"El magret nada fino, tenía increíblemente los pelitos del pato.",['FOOD'],['negative']
+"Creo que un restaurante que presenta un estilo moderno, minimalista y bastante snob no puede presentar así un plato, pero claro la salsa y la presentación a primera vista todo lo tapa.","['FOOD', 'AMBIENCE']","['positive', 'negative']"
+"Muy caro, un querer ser y no poder.",['RESTAURANT'],['negative']
+No lo recomiendo para nada ,['RESTAURANT'],['negative']
+No noz hicieron el 20% de descuento,['RESTAURANT'],['negative']
+Comimos bien.,['FOOD'],['positive']
+El risotto muy bueno.,['FOOD'],['positive']
+Fueron un poco lentos en el servicio.,['SERVICE'],['negative']
+Perfecto restaurante.,['RESTAURANT'],['positive']
+la comida esta fabulosa.,['FOOD'],['positive']
+"Grandes ventanales para disfrutar de ""Les Rambles"".",['AMBIENCE'],['positive']
+el servicio muy profesional con la cocina a la vista y donde el chef se tapa la boca con una mascarilla(muy higiénico) .,['SERVICE'],['positive']
+La comida buena y el servicio también.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Al traerme la cuenta no habían aplicado el 20%, pero fue decirselo y me trajeron la cuenta arreglada.",['RESTAURANT'],['neutral']
+Fantástico si vas al teatro Poliorama,['LOCATION'],['positive']
+"Buena ubicación, buen servicio, calidad-precio inmejorable","['LOCATION', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"La comida fue buena, el servicio un poco lento y tuvimos que reclamar el 20%.","['SERVICE', 'FOOD']","['positive', 'negative']"
+Lo único que en la pagina ponen que tienen platos sin gluten y no tienen información ni en la carta ni el mismo camarero... dudaban de todo.,"['SERVICE', 'FOOD']","['negative', 'negative']"
+"Buen servicio, con algunos pequeños detalles a mejorar.",['SERVICE'],['positive']
+Rapidez entre platos.,['SERVICE'],['positive']
+Deben mejorar el control en la cocción de la base de pizza que utlilizan.,['FOOD'],['negative']
+A veces cruda en algunas zonas.,['FOOD'],['negative']
+"Buen local, buen ambiente y bastante acogedor.",['AMBIENCE'],['positive']
+Buena relacion calidad precio,['FOOD'],['positive']
+Es algo más caro que lo que aparece en la web.,['RESTAURANT'],['negative']
+Al finalizar el menu no querian hacer el descuento porque decían que el descuento era para cenas completa no valia para platos combinados sin postre... ,['FOOD'],['negative']
+En el vale descuento no pone nada de esto.,['SERVICE'],['negative']
+"Increible restaurante, un servicio increíble, un personal magnifico y una comida deliciosa.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+recomendado 100% nosotros volveremos a ir.,['RESTAURANT'],['positive']
+"El restaurante era muy bonito, además el servicio muy bueno.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"Como siempre que hemos ido, La Poma consigue un 10 en relación calidad/precio.",['FOOD'],['positive']
+"En este día 25/12, apreciamos más lentitud en el servicio seguramente porque había menos personal en un día tan señalado, por lo demás excelente relación calidad/precio.","['SERVICE', 'FOOD']","['negative', 'positive']"
+Todo muy muy rico excelente,['RESTAURANT'],['positive']
+"Mi opinión sobre el restaurante La Poma es que es correcto, pero no extraordinario.",['RESTAURANT'],['positive']
+Pedimos un risotto (acceptable) y una pizza (muy mejorable) y postres (lo mejor).,['FOOD'],['positive']
+El servicio era eficiente pero no especialmente amable.,['SERVICE'],['neutral']
+Se equivocaron al traer uno de los platos y rectificaron pero hubo que esperar un poco.,['SERVICE'],['negative']
+En la cuenta se olvidaron de hacer el descuento y también fue necesario esperar a la rectificación.,['SERVICE'],['negative']
+La decoración bastante conseguida.,['AMBIENCE'],['positive']
+El local estaba lleno de turistas.,['AMBIENCE'],['negative']
+Excelente comida casera que me recuerda la comida de mi madre.han realizado una gran reforma para satisfacer a sus clientes ¨gracias ,"['AMBIENCE', 'FOOD']","['positive', 'positive']"
+"Lo recomiendo, un lugar en el que disfrutar de comida casera ó también de una buena chuleta de ternera a la piedra dentro de unos precios asequibles, para los que os gusten los buenos vinos, tenéis una gran variedad de ellos con los que acompañar una buena comida, en cuanto a las personas que lo atienden, Ana la propietaria se encarga de hacerte cómoda tu estancia y su madre en la cocina una excelente cocinera y un encanto de mujer. ","['DRINKS', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Hemos comido el menú a la brasa precio calidad bien, los cayos que hemos probado de 10.",['FOOD'],['positive']
+Lo recomendaremos.,['RESTAURANT'],['positive']
+Buen sitio para repetir ,['RESTAURANT'],['positive']
+"comimos el domingo 20 de octubre y tenemos que decir que estuvo genial, probamos una ensalada con bonito escabechado de la casa muy bueno, las carnes muy bien elaboradas, los postres casi sobraban, pero había que hacer un esfuerzo que mereció la pena y bastantes vinos para poder elegir.","['DRINKS', 'RESTAURANT', 'FOOD']","['positive', 'positive', 'positive']"
+muy recomendable y para volver!!! ,['RESTAURANT'],['positive']
+"Tuvimos que esperar un poco para sentarnos, pero la comida muy buena, merece la pena. ","['SERVICE', 'FOOD']","['positive', 'negative']"
+"Excelente la atención de todo el personal, la comida ni hablar toda muy buena sobre todo el ternasco a la brasa uff todavíalo saboreo, muy buena cantidad para el que es comelón, un poco apartado del centro, pero por lo demás lo sabroso hace olvidar lo apartado, de verdad es muy bueno, lo recomiendo a todo aquel de buen paladar. ","['LOCATION', 'RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive', 'negative']"
+Fuimos 7 personas con un niño tanto el trato con la comida fue muy buenaLo recomiendo ,"['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+La cena estuvo muy bien.,['FOOD'],['positive']
+"Fuimos un grupo numeroso, 20 personas, y nos atendieron fenomenal y muy efectivos.",['SERVICE'],['positive']
+"La ensalada, los entrantes fritos, el queso, fenomenal.",['FOOD'],['positive']
+"Como 2º plato yo elegí churrasco, que estaba sensacional, y con patatas fritas caseras (no congeladas).",['FOOD'],['positive']
+"Los postres también muy buenos, unos chupitos al final, cafés y todo por 20 € por persona.",['FOOD'],['positive']
+"Los comentarios fueron favorables hacia todo, excepto el vino.",['DRINKS'],['negative']
+Hay vinos jóvenes muy buenos de Cariñena por menos de 2 € la botella.,['DRINKS'],['positive']
+"No será la última vez que vayamos,porque nos ha encantado.",['RESTAURANT'],['positive']
+El servicio estupendo y la cena muy bien también.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Recomendable sin duda. ,['RESTAURANT'],['positive']
+"Hace una semana fuimos por primera vez al Candelas, fue su menú de brasa el que probamos y salvo el vino que gano mucho al convertirlo en  tinto de verano , la cena fue satisfactoria.","['DRINKS', 'FOOD']","['positive', 'negative']"
+"Muy satisfechos, el precio muy ajustado .",['FOOD'],['positive']
+Sinduda repetiremos.,['RESTAURANT'],['positive']
+Muy recomendable y excelente trato de la Jefa de Sala. ,"['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Vuelta de vacaciones y  parece oportuno volver por donde acabamos, si el último fue una buena experiencia.Excelente opción tanto en su menú a la brasa, como sobre todo ese menú veraniego de arroz.",['FOOD'],['positive']
+"Hoy es la segunda vez que lo probamos y muy satisfecho de los tres arroces servidos, el negro, el de callos y el novedoso de rebozuelo.",['FOOD'],['positive']
+"Magnífica la atención de Ana y hoy la guinda fue un carajillo de ron, como debe ser, obra de una buena camarera.",['SERVICE'],['positive']
+"Espero que no se olvide con el fin de verano, un menú muy ajustado y sabroso.",['FOOD'],['positive']
+"Excelente trabajo en la cocina, a un precio muy interesante.",['FOOD'],['positive']
+"Trato exquisito, comida sabrosa , en un ambiente sin lujos pero con una relación calidad precio casi imposible de encontrar en Zaragoza.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'neutral']"
+"Ana un lujo como jefa de sala, Eduardo Orús un toque especial en los fogones.",['SERVICE'],['positive']
+Ingeniosos menús degustación que van cambiando con acierto.,['FOOD'],['positive']
+Definitivamente un lugar para tener en cuenta cada semana. ,['RESTAURANT'],['positive']
+"La atención ha sido buena, la comida aceptable, pero mi queja es con la reserva, por internet, sino me hubiera presentado personalmente hubiera tenido un chasco.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"La comida,muy buena.",['FOOD'],['positive']
+"El trato amable,y el servicio rápido.",['SERVICE'],['positive']
+El precio para los tiempos de crisis que atravesamos un poco por encima de nuestros presupuestos.,['RESTAURANT'],['negative']
+No obstante buena relación calidad precio.,['FOOD'],['positive']
+Seguramente volveremos ,['RESTAURANT'],['positive']
+Me gustó.,['RESTAURANT'],['positive']
+"No lo conocía, pero relación calidad-precio me pareció muy bien.",['FOOD'],['positive']
+"Por ponerle una pega, el excesivo ruido ,había mucha gente y en la sala resuena mucho y casi no podíamos escucharnos. ",['AMBIENCE'],['negative']
+"Escriba aquí su comentario:Muy buen restaurante en relación calidad/precio y cantidad, los callos insuperables, personal muy atento y agradable. ","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Buena comida, sobretodo los callos, recomendable. ",['FOOD'],['positive']
+"Muy amable todo el personal, limpio y la comida muy buena y con varios menus para elegir junto con la carta.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Volveremos ,['RESTAURANT'],['positive']
+Escriba aquí su comentario…Buena relación calidad -precio.,['FOOD'],['positive']
+Rapidez. ,['SERVICE'],['positive']
+"Buena cocina, ambiente tranquilo y servicio esmerado.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"por eso regresamos cada vez que podemos por que vale la pena, y si que es recomendable  A/t.",['RESTAURANT'],['positive']
+manuel hasta la proxima y gracias.,['RESTAURANT'],['positive']
+"Como Siempre fantastico,  Gran Servicio, calidad extrema y precio en concordacia.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Un valor seguro cuando consiste no sólo en comer fantásticamente, si no en quedar bien con gente que está de visita en la ciudad.",['RESTAURANT'],['positive']
+Buen trato y buena comida,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Hola, fuimos ayer dia 12-08-2011, y realmente los platos son exquisitos.",['FOOD'],['positive']
+Me encantó.,['RESTAURANT'],['positive']
+"Sinceramente, buenisimo, sobretodo el solomillo con vino tinto buenisimo, el mejor que he probado y personal muy amable.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Se está muy a gusto, mi restaurante preferido de barcelona.",['RESTAURANT'],['positive']
+Nunca defrauda.,['RESTAURANT'],['positive']
+"Los precios un poco altos, pero compensa con la buena calidad del producto y la profesionalidad de todo el personal.","['RESTAURANT', 'SERVICE', 'FOOD']","['negative', 'positive', 'positive']"
+correcto y maxima comodidad.,['RESTAURANT'],['positive']
+"Me ha causado una gratisima impresión, tanto en la calidad de sus productos como en el exquisito trato de su personal.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Repetiré cuando regrese por Barcelona y ya he recomendado a mis amigos.,['RESTAURANT'],['positive']
+Calidad y servicio muy correctos.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Un buen restaurante dentro de la gama media/alta de Barcelona,['RESTAURANT'],['positive']
+"Un restaurante muy tranquilo y perfecto para ocasiones especiales con la familia, etc...",['AMBIENCE'],['positive']
+Un carta amplia y con mucha variedad.,['FOOD'],['positive']
+"El servicio es atento y rápido, sin ser en ningún momento agobiante.",['SERVICE'],['positive']
+Para recomendar.,['RESTAURANT'],['positive']
+"La calidad de la comida no  corresponde al precio, además las mesas estan demasiado juntas y oyes sin quere todas las conversaciones de alrededor.","['AMBIENCE', 'FOOD']","['negative', 'negative']"
+"Definitivamente no volveré, al menos pagando yo.",['RESTAURANT'],['negative']
+Se puede resumir en una palabra: Excelente,['RESTAURANT'],['positive']
+Muy buena calidad de alimentos y muy bien cocinados.,['FOOD'],['positive']
+"Servicio rápido, muy amables.",['SERVICE'],['positive']
+No le pongo un 10 por que es un poquito caro pero merece la pena ir.,['RESTAURANT'],['negative']
+Debe ser un sitio de referencia siempre.,['RESTAURANT'],['positive']
+Fuimos por una recomedación y fue todo un acierto.,['RESTAURANT'],['positive']
+La xatonada y las croquetas una delicia.,['FOOD'],['positive']
+De segundo recomiendo las gambas sobretodo si te invitan.,['FOOD'],['positive']
+Buen servicio y buen ambiente.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"Siempre vamos cuando no sabemos adonde ir para cenar, la comida esta bien y el precio en comparacion vale la pena .","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"El servicio y el trato son sin duda uno de los mejores de BCN, y eso que he probado muchos restaurantes.",['SERVICE'],['positive']
+El corte del jamon en lonchas mas finas!,['FOOD'],['negative']
+"Impecable, calidad extraordinaria en cuanto al producto, la presentación y el ""punto"".",['FOOD'],['positive']
+"El servicio lustroso, impecable, elegante.",['SERVICE'],['positive']
+Ninguna pega.,['RESTAURANT'],['positive']
+"Como siempre, L'Olivé es una valor seguro.",['RESTAURANT'],['positive']
+"Cocina catalana y de mercado, basada en una óptima calidad del producto.",['FOOD'],['positive']
+Este restaurante goza de una homogeneidad envidiable.,['RESTAURANT'],['positive']
+Nunca les va a defraudar.,['RESTAURANT'],['positive']
+Siempre es de una excelencia insuperable.,['RESTAURANT'],['positive']
+"El ambiente, la comida, el óptimo servicio y la magnífica relación calidad/precio.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"Muy caro por la comida que ofrecen, he comido igual o mejor en La Flauta, El Asador de Aranda, etc.",['FOOD'],['negative']
+Un restaurante al que no pienso volver.,['RESTAURANT'],['negative']
+"Nada que objetar a la comida, ni a la decoración, pero quiero dejar constancia que el servicio no está a la altura de lo que se merecería el restaurante.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'negative']"
+De lo mejor de Barcelona.,['RESTAURANT'],['positive']
+Todo excelente.,['RESTAURANT'],['positive']
+El precio es elevado pero lo vale.,['RESTAURANT'],['neutral']
+"El local muy bien, la calidad de la comida muy buena, servicio  bueno, pero la presentación de los platos, ya que se lo cobra, deja mucho que desear.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'neutral']"
+Otro detalle de mal gusto es que los entretenimientos que ponen al principio te los cobran.,['SERVICE'],['negative']
+Como siempre L'Olivé ofrece una cocina catalana y de mercado de una calidad impecable.,['FOOD'],['positive']
+El producto siempre es de primera y de una homogeneidad envidiable.,['FOOD'],['positive']
+"Su selección de ""para picar"" es destacable: óptimos calamares a la romana y fantásticos boquerones frescos y rebozados.",['FOOD'],['positive']
+"Pescados impecables y de una cocción, ya sea a la plancha o al horno, siempre en su punto.",['FOOD'],['positive']
+"Unos postres para golosos, destacando una de las mejores ""cremas catalanas"" y un ""tiramisú"" de antología.",['FOOD'],['positive']
+La bodega suficiente y con una variedad muy bien escogida y a precios adecuados.,['DRINKS'],['positive']
+El ambiente más que agradable y poco ruidoso.,['AMBIENCE'],['positive']
+"Es un restaurante para repetir, repetir y repetir.",['RESTAURANT'],['positive']
+Excelente !,['RESTAURANT'],['positive']
+Muy rica comida y muy buen servicio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"La comida es buena o muy buena diria, el precio es carillo pero normal en esta zona de Barcelona, ahora bien el servicio es muy mejorable sobre todo que no os toque el camarero de las prisas que quiere que te vayas lo antes posible.","['SERVICE', 'FOOD']","['positive', 'negative']"
+por otro lado las mesas están demasiado juntas y hay mucho ruido.,['SERVICE'],['positive']
+Pasable.,['RESTAURANT'],['neutral']
+Bien.,['RESTAURANT'],['positive']
+"Buena cocina y servicio, aunque los camareros van acelerados como si estuvieran apagando un conato de incendio.","['SERVICE', 'FOOD']","['positive', 'negative']"
+En realidad están tratando de que dejes la mesa lo antes posible para ocupar un segundo turno.,['SERVICE'],['negative']
+No es un chollo en cuanto a precio.,['RESTAURANT'],['negative']
+"Nos encantó, llevamos clientes por el trabajo, y cenamos con fines de semana a solas... hasta hace poco volvimos con unos amigos y... qué decepción!!!",['RESTAURANT'],['positive']
+"Trato pobre, los precios de los platos no tienen sentido y el local tiene mucho ruido!","['SERVICE', 'AMBIENCE', 'FOOD']","['negative', 'negative', 'negative']"
+El servicio deja de desear y sinceramente os dijo que este restaurante ha pasado su mejor momento.,"['RESTAURANT', 'SERVICE']","['negative', 'negative']"
+La verdad es que resulta muy caro para lo que recibes.,['RESTAURANT'],['negative']
+"Tenia unas expectativas muy altas tras haber estado en el Barcelonta de mismo grupo, sinembargo me decepcionó muchísimo: comida recalentada, mucho ruido, mesas muy cerca, trato frio y desagradable... ","['SERVICE', 'AMBIENCE', 'FOOD']","['negative', 'negative', 'negative']"
+No pienso volver.,['RESTAURANT'],['negative']
+Mi preferido para celebraciones especiales desde hace muchos años.,['RESTAURANT'],['positive']
+Confío en él desde que estaba en la C/Muntaner.,['RESTAURANT'],['positive']
+Nunca me falla !!!,['RESTAURANT'],['positive']
+Comida aceptable a un precio algo elevado para lo que es.,['FOOD'],['positive']
+"Al restaurante le falta una renovación, se ha quedado algo anticuado en todos los sentidos.",['AMBIENCE'],['negative']
+"el restaurante es agradable; la comida buena pero un poco cara; el servicio nos trató fatal (febrero 2007); ruidosos, impertinentes, fue imposible disfrutar de la cena.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'negative']"
+"Sin duda, lo peor del restaurante es la decoración, extrañamente alabada por algunos.",['AMBIENCE'],['negative']
+"Impersonal, lo peor que le puede pasar a un restaurante que quiere tener voz propia.",['AMBIENCE'],['negative']
+"Por lo demás, el servicio bueno dentro de que como decía un político pepero (Cañete) los ""nuevos"" camareros no diferencian un arroz de un fideo... pero por lo menos son eficaces y atentos.",['SERVICE'],['positive']
+La comida bien en cuanto calidad y cantidad.,['FOOD'],['positive']
+"No se esperen platos extraordinarios, pero son en su mayoria muy buenos (que no es poco).",['FOOD'],['positive']
+Debe mejorar muy mucho su carta de vinos.,['DRINKS'],['negative']
+"Total; buena comida, con poca capacidad de sorpresa y bastante caro.",['FOOD'],['positive']
+Lo han repetido en varias opiniones: el ruido es insufrible!!,['AMBIENCE'],['negative']
+"Me encantó el filete de vedella al foie, en general le doy una puntuación de 9.",['FOOD'],['positive']
+La carta que sale en internet tendrìa que ser mas extensa.,['FOOD'],['negative']
+Y la verdad que lo pasamos estupendo.,['RESTAURANT'],['positive']
+"La comida muy pero muy buena, áun me acuerdo del foie y de mangret de pato con salsa de fresa.",['FOOD'],['positive']
+Me ha encantado.,['RESTAURANT'],['positive']
+"Es verdad que los camareros van con mucha prisa, pero a nosotros nos ha ido bien, porque después de cenar teníamos que ir al teatro, y aun así salimos del restaurante corriendo.",['SERVICE'],['positive']
+"no cuiden al client; sorollos, un escandol, ha perdut tot l´encant.¡un desastre!",['SERVICE'],['negative']
+"Comida con calidad correcta y en su justa proporcion y precio ay,ay,carta de vinos completa y bien,servicio profesional eficiente,peros:decoracion y ambiente casi retro,cobrar por pan que no pedi y servicio 2,20 €,por persona,pan de coca con tomate 3,20 €,excesivo, los cafes a 2,00,todo mas impuestos no repetire.","['AMBIENCE', 'SERVICE', 'FOOD', 'DRINKS', 'RESTAURANT']","['positive', 'negative', 'positive', 'positive', 'negative']"
+Uno de mis restaurantes preferidos.,['RESTAURANT'],['positive']
+"Buen ambiente, cocina excelente y decorado atractivo.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Sobresaliente.,['RESTAURANT'],['positive']
+"Estamos hablando de un sitio muy fino situado en el cogollo barcelonés, por tanto, entiendo, que se tiene que reflejar en el precio.","['RESTAURANT', 'AMBIENCE']","['positive', 'positive']"
+"Calidad excelente, carta extensísima, servicio atento, instalaciones cuidadísimas y salones privados que ensalzan todo lo dicho.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"En definitiva, no se lo pierdan.",['RESTAURANT'],['positive']
+La comida no está mal pero por lo que dan es caro.,['FOOD'],['positive']
+El local no está mal pero el ambiente es ruidoso.,['AMBIENCE'],['negative']
+Soy asidua del restaurante cuando hay celebraciones de empresa o familiares.,['RESTAURANT'],['positive']
+La relación calidad/precio es excelente teniendo en cuenta lo que hay por ahí.,['FOOD'],['positive']
+Muy recomendable.,['RESTAURANT'],['positive']
+"El restaurante es bonito y la comida buena, pero para mi gusto el precio es excesible en relación calidad precio.","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'negative', 'positive']"
+Me habian recomendado este restaurante y la verdad es que valia la pena probar.,['RESTAURANT'],['positive']
+"Muy buen trato por parte de todo el personal (correcto, educado y profesional), la comida muy buena y un ambiente relajado en el comedor.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"Sencillamente, me ha encantado!",['RESTAURANT'],['positive']
+Lo recomiendo!!!!!,['RESTAURANT'],['positive']
+"lo recomiendo, se come muy bien calidad, precio excelente que es lo importante, buena bodega.","['DRINKS', 'RESTAURANT', 'FOOD']","['positive', 'positive', 'positive']"
+Impecable.,['RESTAURANT'],['positive']
+"Cocina, platos y sobre todo el personal extraordinario,  y muy profesional.","['SERVICE', 'FOOD']","['positive', 'positive']"
+!Me siento engañado!,['RESTAURANT'],['negative']
+"Cenamos mi señora y yo correctamente el servicio la comida también sin ser nada fuera de lo común, los sorbetes fueron mediocres por no decir que no estaban a la altura de lo pagado,  pero no estaba mal hasta aquí todo correcto, sobre las doce y cuarto aparecen “Las Posesas”Se empiezan hacer fotos con algún cliente y a dar vueltas por el local.","['SERVICE', 'FOOD']","['positive', 'neutral']"
+"A la una mi mujer y yo ya nos dormíamos esperando el espectáculo prometido y nos fuimos, antes de irme se lo comente a un responsable de barra y ya no me contestaba como al principio con buenas palabras y educación ahora me dice que no es su problema y que el no tenia la culpa que el espectáculo indicado a las 23:30 fuese la una y no hubiese empezado.",['SERVICE'],['negative']
+"Poseso me siento engañado reserve una cena con espectáculo y me fui una hora y media mas tarde sin ver el espectáculo, pague 66€ por la cena de dos me podía haber ido a cualquier otro restaurante que por esa cantidad hubiese cenado igual o mejor y me engañaron no disfruté de ningúna actuación.","['RESTAURANT', 'AMBIENCE']","['negative', 'negative']"
+Nosotros estuvimos de cena y lo pasamos francamente bien.,['RESTAURANT'],['positive']
+Actuaban las Posesas e hicieron un show muy entretenido y divertido tanto en el escenario como cuando están con la gente haciendose fotos son muy simpáticas.,['AMBIENCE'],['positive']
+La comida y el servio bien y se agradece que la actuación comience cuando hemos terminado de cenar.,"['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"Estuve con una amiga este viernes pasado, se lo había recomendado porque ya había estado allí y me pareció un lugar diferente, un sitio para cenar, pasar un rato divertido, tomar alguna copa y cenar algo, bueno, decepción total, el ambiente del restaurante, antes más innovador, ahora se ha convertido en  un restaurante más.","['RESTAURANT', 'AMBIENCE']","['neutral', 'positive']"
+"Cenamos a la carta, el stick tartar delicioso, la carne; para el precio dura, la atención muy buena, el postre, una degustación muy bueno, en definitiva me pareció muy muy caro para lo que cenamos, salimos a 60 € por cabeza.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'negative', 'positive']"
+Todo un exceso la verdad.,['RESTAURANT'],['negative']
+No pienso volver ,['RESTAURANT'],['negative']
+Muy buen restaurante.,['RESTAURANT'],['positive']
+"Sirven platos deliciosos, ya sean nuevos o tradicionales.",['FOOD'],['positive']
+"El maître nos recomendó dos vinos, un tinto y un blanco, que resultaron un acierto.",['DRINKS'],['positive']
+"El ambiente es agradable y el servicio, rápido y atento.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"Al servir los platos, el encargado del local da sucintas y pertinentes explicaciones que se agradecen.",['SERVICE'],['positive']
+"Un precio razonable, en mi opinión.",['RESTAURANT'],['positive']
+Muy recomendable.,['RESTAURANT'],['positive']
+Volveremos. ,['RESTAURANT'],['positive']
+"<->no es un restaurante ni un cafe de cocina mediterranea, es un ""lugar"" donde tienen una mini carta de tapas ,servidas en unas bandejas en las que dificilmente puedes usar como plato , con una calidad media de las mismas, y que para subsistir ofrecen un menu de nueve euros, A BUEN ENTENDEDOR POCAS PALABRAS BASTAN.",['FOOD'],['negative']
+"el servicio muy correcto, la comida muy buena exceoti el tiramisú, que para mi gusto, era amargo.","['SERVICE', 'FOOD']","['positive', 'positive']"
+La amabilidad con que se nos trató fue exquisita.,['SERVICE'],['positive']
+"La elaboración de los platos para el menú que efrecian de 20€, excepcional.",['FOOD'],['positive']
+se esmeran en hacerlo bien,['RESTAURANT'],['positive']
+"<->El menu reservado pot Internet, no estaba, eñ aire no funcionabs, mucho calor, el trato del encargado no correcto y la comida , no buena, ni en cantidad.","['SERVICE', 'AMBIENCE', 'FOOD']","['negative', 'negative', 'negative']"
+"El restaurante, fenomenal, tanto la comida con el servicio.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Si no se aplica descuento es un poco caro.,['RESTAURANT'],['negative']
+"Y aunque la comida merece mucho la pena (asi como el servicio), el entorno, local y terraza, podría ser mejor.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'neutral']"
+"Calidad y precio muy razonables, al tener el 30% en el menú (sólo comidas).",['FOOD'],['positive']
+Los camareros muy atentos y la comida buena y suficiente.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Tampoco pedimos nada especial, una arroz, que estaba en su punto y se notaba que el pescado era de calidad.",['FOOD'],['positive']
+La sangria de cava muy buena.,['DRINKS'],['positive']
+Se recomienda en sitio.,['RESTAURANT'],['positive']
+Buena calidad y correcta cantidad.,['FOOD'],['positive']
+El ambiente es agradable y el servicio rápido y amable.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+Agradable.,['SERVICE'],['positive']
+Muy buena atención.,['SERVICE'],['positive']
+"Gonzalo, el chef, se encarga de generar un ambiente muy amigable.",['AMBIENCE'],['positive']
+"La relación calidad-precio, muy buena.",['FOOD'],['positive']
+Comida buena.,['FOOD'],['positive']
+Paella mixta exquisita.,['FOOD'],['positive']
+A mejorar baños.,['AMBIENCE'],['negative']
+Local pequeño,['AMBIENCE'],['negative']
+No me gustó el olor del local.,['AMBIENCE'],['negative']
+que sorpresa mas agradecida conocer el Cafe de la casa de les lletres.,['RESTAURANT'],['positive']
+"El ambiente es unico, el servicio muy atento y la comida un 10.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Nos ofrecieron huevos frescos de sus gallinas y eran exquisitos.,['FOOD'],['positive']
+"seguramente volveremos para comer en la terrazza, o para desayunar el finde.",['RESTAURANT'],['positive']
+lo aconsejo,['RESTAURANT'],['positive']
+"En el apartado de ambiente todo muy correcto, decoración, música, ambiente, etc.",['AMBIENCE'],['positive']
+Excepto el ambientador utilizado en el local,['AMBIENCE'],['negative']
+Demasiado fuerte casi ofensivo,['AMBIENCE'],['negative']
+Desvirtúa la buena comida servida con esmero... a mejorar este punto.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+fui con unos clientes erabamos 8 y nos encanto.,['RESTAURANT'],['positive']
+La comida estaba exquisita especialmente los huevos rotos que por cierto me explicaban que son de su granja/masia.,['FOOD'],['positive']
+el servicio impecable.,['SERVICE'],['positive']
+Lo recomiendo!!!,['RESTAURANT'],['positive']
+Un sitio tranquilo con pocas mesas.,['AMBIENCE'],['positive']
+La comida no es de gran calidad pero es acorde con el precio.,['FOOD'],['neutral']
+Especialmente interesante con el descuento del 30%.,['RESTAURANT'],['positive']
+"Ambiente muy tranquilo, muy limpio, los platos les faltaba un poco mas de comida, para los precios elevados que tiene, pero en definitiva todo muy correcto, curiosa decoracion","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'negative', 'negative']"
+"Mentira todo, deberian tener ganas de cerrar y no se quisieron quedar por una mesa de dos que encima venian con un dto del 30% y nos mintieron descaradisimamente.",['SERVICE'],['negative']
+Evidentemente no volveremos ni nos creemos nada de esa invitacion.,['RESTAURANT'],['negative']
+Una verguenza todo.,['RESTAURANT'],['negative']
+Nos aconsejaron el menú degustacion y fue muy acertado.,['FOOD'],['positive']
+Buen servicio y el local bastante acogedor,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+Un placer que puedas comer a las 16:00 tan tranquilamente y tan  gusto.,['AMBIENCE'],['positive']
+Muy atentos y el menu que escogimos nos parecio muy adecuado.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Buena cocina y buen trato, repetiremos!!!!","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Calidad precio bien el servicio amable,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Restaurante pequeñito y muy acogedor, muy tranquilo, el servicio excelente, la.comida y la presentacion acorde con lo esperado.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Recomiendo la paella de marisco y la sangria de cava.,"['DRINKS', 'FOOD']","['positive', 'positive']"
+Sin duda volveremos.,['RESTAURANT'],['positive']
+"Muy buen servicio; el local está genial ambientado, y es fácil de encontrar además; en la reserva pedimos la mesa más apartada, por eso de ir con un niño, y nos lo concedieron sin problema (y el local es pequeñito).","['LOCATION', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"El menú sanvalentín, genial, buenísimo, variado, y con comida de gran calidad, estaba buenísimo.",['FOOD'],['positive']
+"El camarero nos atendió genial, alegre, amable, simpático y atento.",['SERVICE'],['positive']
+Totalmente recomendable!!,['RESTAURANT'],['positive']
+"Restaurante bien decorado, aunque con espacios reducidos.",['AMBIENCE'],['neutral']
+El servicio fue atento.,['SERVICE'],['positive']
+"La comida bien, pero sin echar cohetes.",['FOOD'],['neutral']
+Las raciones fueron bastante escasas.,['FOOD'],['negative']
+Alguno de los postres no estaba a la altura del dinero pagado.,['FOOD'],['negative']
+El servicio fue excelente y la comida estaba genial.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Fuimos en una noche muy tranquila, solo había dos mesas, imagino que eso influyó en el servicio pero aun así lo recomiendo.",['RESTAURANT'],['positive']
+"Local muy original, buena comida y un servicio fantástico.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"La verdad es que este restaurante nos ha sorprendido por la relacion calidad-precio, no es barato, pero todo está buenisimo y en cantidades suficientes, nos ha encantado tanto a mi marido como a mi.","['RESTAURANT', 'FOOD']","['neutral', 'positive']"
+La comida y el lugar están bien pero el servicio es muy lento.,"['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'negative']"
+La comida estuvo muy bien.,['FOOD'],['positive']
+El ambiente agradable.,['AMBIENCE'],['positive']
+"la iluminación un poco escasa, pero acogedora.",['AMBIENCE'],['neutral']
+"Un poco caro para lo que es, pero bueno, estando en el born ya se sabe... ",['RESTAURANT'],['negative']
+Volveré seguro.,['RESTAURANT'],['positive']
+"Local agradable, cómodo y moderno, con una cocina cuidada y de buena calidad.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Regular.,['RESTAURANT'],['neutral']
+"Buena decoración, comida normal, mucho ruido y algo caro.","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'neutral', 'negative']"
+"Esta bien, pero creo que trabajan para clientes puntuales, y no repetiré",['RESTAURANT'],['neutral']
+"Por cierto, pagar casi 5€ x los cubiertos me molesta siempre.",['RESTAURANT'],['negative']
+"Me ha sorprendido el restaurante; nos han tratado en una manera casual pero profesional; la comida, todos los platos calidad excelente y sabroso; voy a volver pronto!","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Un buen ambiente, servicio exquisito y atento, profesionales, platos de calidad, bien cocinados y raciones correctas.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+No te importa pagar por estar bien servido y comer bien .,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Muy buen servicio y ambiente.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+La comida nos gustó a todos.,['FOOD'],['positive']
+Un pelo más caro de lo que esperábamos.,['RESTAURANT'],['negative']
+Ambiente muy agradable y animado.,['AMBIENCE'],['positive']
+Recomendable.,['RESTAURANT'],['positive']
+Ha sido nuestra prinera visita al Kafka y seguro que repetiremis en nuestras próximas escapadas a Barcelona.,['RESTAURANT'],['positive']
+"Agradable ambiente, muy buen servicio y exquisitos platos.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Todo lo que probamos nos encantó.,['FOOD'],['positive']
+Las alcachofas fritas tienen buena fama merecida.,['FOOD'],['positive']
+Muy recomendable.,['RESTAURANT'],['positive']
+Realmente 100% recomendable,['RESTAURANT'],['positive']
+"Interesante restaurante en el Born, gran calidad en el producto utilizado, tal vez el único pero sería que la sala es un poco ruidosa y las mesas están un poco próximas entre sí.","['RESTAURANT', 'AMBIENCE', 'FOOD']","['positive', 'negative', 'negative']"
+"No han cambiado nada, bueno si para mejor con los nuevos platos al estilo asiatico, despues de mucho tiempo sin volver,por motivos laborales, sigo pensando que es de lo mejor de barcelona, comida estupenda, servicio inmejorable, vamos que estuvimos 4 horas muy bien aprovechadas ,os lo recomiendo y espero volver pronto.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Te lo recomendaria!,['RESTAURANT'],['positive']
+Servicio atento y eficiente y una comida estupenda y con muy buena ralacion calidad precio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Cumplió nuestras expectativas.,['RESTAURANT'],['positive']
+"Quizá se podría mejorar la distribución de mesas, ya que algunas de ellas están demasiado juntas, y otras están muy cerca de la barra, y por lo tanto, está pasando gente contínuamente por al lado de los comensales.",['AMBIENCE'],['negative']
+"El restaurante es muy bonito, el ambiente es agradable y la decoración excepcional así somo el servicio que fue muy amable en todo momento.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+Lamentablemente la relación calidad-precio me parece mala ya que la comida en mi opinión no está a la altura del precio.,['FOOD'],['negative']
+"Lugar agradable, buen servicio y platos con nota media-alta y con una buena relación calidad-precio.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Recomendado.,['RESTAURANT'],['positive']
+"Servicio atento y eficiente, ambiente agradable.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"Precios: correctos, lo normal en estos tiempos.",['RESTAURANT'],['neutral']
+"Plato degustación: un poco abundante de más, pero bien cocinado.",['FOOD'],['positive']
+Únicos comentarios crítico: luz escasa para un restaurante; aquí prima la decoración sobre la función.,['AMBIENCE'],['negative']
+"Por lo demás, muy recomendable.",['RESTAURANT'],['positive']
+"Óptima relación calidad-precio en el menú de mediodía, en un local chic muy bien ambientado.","['AMBIENCE', 'FOOD']","['positive', 'positive']"
+"El ambiente muy agradable, el servicio muy atento y la comida muy buena.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Absolutamente recomendable.,['RESTAURANT'],['positive']
+"Muy recomendable, por ambiente y comida.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Ambiente cálido y agradable.,['AMBIENCE'],['positive']
+Servicio amable y cocina muy correcta.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Restaurante muy agradable y buena comida.,"['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Estuvimos cenando tres personas y nos gusto mucho.,['RESTAURANT'],['positive']
+"Buen ambiente, muy buen servicio y muy buena comida.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Y el local esta muy bien decorado y es muy acogedor.,['AMBIENCE'],['positive']
+Un lugar que te hace sentir como en casa.,['RESTAURANT'],['positive']
+"Comida excelente, producto inmejorable y un servicio correcto.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Si he de encontrar alguna pega las mesas estan demasiado juntas.,['AMBIENCE'],['negative']
+"Agradable para tomar copas, cockteles y un vinito.",['DRINKS'],['positive']
+"Lo recomiendo, no les dejara indiferente.",['RESTAURANT'],['positive']
+Para empezar el plato y la servilleta tenían carbonilla negra.,['SERVICE'],['negative']
+El changet era salmuera.,['FOOD'],['negative']
+"Las croquetas literalmente nos las tiró en la mesa sin decir ni mu la camarera, porque por la puerta estaba entrando un amigo suyo con el cual se sentó a conversar.",['SERVICE'],['negative']
+"Cuando llegó el arroz, le recordé la salsa y no se dignó contestarme.",['SERVICE'],['negative']
+"Empecé a comer, para que no se enfriase la ración más bien escasa y oh sorpresa  era también una  salmuera anegada en tinta.",['FOOD'],['negative']
+en ese momento se dio cuenta de su comportamiento negligente y ensayo una disculpa por su falta total de profesionalidad y de atención.,['SERVICE'],['negative']
+"sorprendente, es como estar en new york y paris a la vez, decoracion espectacular, personal increible y su comida fresca de mercado me fascino, se los recomiendo chicos, suerte.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+Estaba todo riquísimo y los camareros muy amables,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Hola JOse nosotros hemos estado varías veces en Pelentos de Sandiniés, y opino como tú, que es un comedor muy recomendable.",['RESTAURANT'],['positive']
+"Por si quieres actualizar tú  información ahora tienen un Menu de Primavera por 19 euros y menú infantil por 15 euros que esta genial, te recomiendo volver, igual que hago yo y asi a lo mejor se juzga con más equidad (nosotros ya tenemos mesa reservada para el día 28 de Abril, celebramos mi cumple) ","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Fuimos recomendados a cenar en Nochebuena y nos llevamos una gran decepción: no sólo las materias primas dejaban mucho que desear (revuelto de gambas y setas de bolsa precongelada) sino que las cantidades eran irrisorias para el precio.,"['RESTAURANT', 'FOOD']","['negative', 'negative']"
+"El bacalao al horno (especialidad de la casa) resultó acorchado y duro, así como el plato de ciervo (26euros el plato) se presentó escaso y apenas sin guarnición.En definitiva, se le presume una calidad avalada por galardones varios y nos hemos encontrado una comida bastante mediocre. ",['FOOD'],['negative']
+"Hola , quiero dejar mi opinión sobre este restaurante en la única visita que he hecho , coincido plenamente con el Sr. Aranda en que la cantidad es bastante escasa en algunos platos en relación con su precio .",['FOOD'],['negative']
+Así mismo he de resaltar que los entrantes estaban en su mayoría fríos y unos pimientos no se podían comer porque simplemente los habían sacado del frigorífico a la mesa.,['FOOD'],['negative']
+"La verdad que la calidad es alta, pero se podrían corregir esos errores para que la satisfacción fuera mayor así como dar una mayor cantidad de producto . ",['FOOD'],['positive']
+"Ciertamente fue desilusionante, debido, en especial, a la escasez en los segundos platos en relación con los precios.","['RESTAURANT', 'FOOD']","['negative', 'negative']"
+"La factura es elevada, lo cual ya esperábamos, aunque no tanto.",['RESTAURANT'],['negative']
+"No importaba mucho que fuera del grigo, dado que el agua de la zona es excelente; pero por ello se nos facturó 2,50 euros.",['DRINKS'],['negative']
+"Mi esposa, ciertamente, al revisar la factura y descubrir esto último, se llevó un buen disgusto, pues considerábamos a Casa Pelentós uno de nuestros pocos refugios pirenaicos para cuando saliéramos de casa, ya que vivimos muy cerca.",['RESTAURANT'],['negative']
+"Obviamente, por los 2,50 euros cobrados por el agua del grifo, han perdido a dos clientes. ",['DRINKS'],['negative']
+¡Excelente cena!,['FOOD'],['positive']
+"Hacía mucho tiempo que un restaurante en Zaragoza no me sorprendía de esta manera: Gran calidad del producto, numerosos detalles, puntos de cocción perfectos en casi todos los platos, raciones abundantes y un precio elevado pero ajustado a la calidad.El servicio fue atento y educado aunque tuvo algún pequeño fallo (como servir la segunda botella de vino en las copas en que aún quedaba algo de la anterior)De comienzo una buena variedad de panes (pizza, oliva verde, oliva negra, …) con un cuenquito de aceite de oliva con tomate mozzarella y albahaca.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Como entrantes compartimos:- un carpaccio de buey de Kobe, excelente, sabrosísimo.- una tempura de comenillas rellenas de foie y alchofas- una cola entera de bogavante a la plancha con salsa de su coral (muy sabrosa, aunque un poco pasada de punto)Antes del segundo la casa nos ofreció un pinco de membrillo y queso en tempura presentado en un palo de canela encendido.",['FOOD'],['positive']
+Muy original presentación y muy lograda la combinación.Los segundos fueron un poco más tradicionales:,['FOOD'],['positive']
+Extraordinario sabor y textura.,['FOOD'],['positive']
+Gran taco de rape cocido en su punto y muy sabroso.,['FOOD'],['positive']
+"Tal vez pod´ria haber estado un poco menos hecho, pero muy sabroso y también acompañado por un excelente puré.",['FOOD'],['positive']
+Espectacular y muy sabroso.,['FOOD'],['positive']
+Sólo pedimos dos postres y la verdad es que fueron lo más flojo de la cena:,['FOOD'],['neutral']
+"Un buen sitio, a seguir.",['RESTAURANT'],['positive']
+Si mantienen el nivel de innovación y calidad puede ser un soplo de aire fresco en Zaragoza.,['RESTAURANT'],['positive']
+La verdad es que es un local bastante pequeño.,['AMBIENCE'],['neutral']
+Las mesas son grandes y el espacio entre ellas es bastante amplio.,['AMBIENCE'],['positive']
+"El restaurante estaba bastante lleno (aunque no completo) y sin embargo estuvimos muy tranquilos, con casi total intimidad.",['AMBIENCE'],['positive']
+"Creo que la ventilación era bastante buena, aunque  no sé lo que ocuriría si hubiera mayor número de fumadores o más compulsivos. ",['AMBIENCE'],['positive']
+"Es una cocina bastante tradicional en los conceptos pero los aliña con procedimientos de cocina modernos y bien aplicados, junto con presentaciones creativas.",['FOOD'],['positive']
+Lo más destacable para mí es el uso de la cocción a baja temperatura en muchos platos y presentaciones espetaculares y trabajadas. ,['FOOD'],['positive']
+"Decepcionante experiencia.La carta de vinos que parece completa en la oferta, en el apartado internacional nada de nada no disponen de ninguna de las referencias.","['DRINKS', 'RESTAURANT']","['negative', 'negative']"
+"En el resto tres de los vinos que pedimos agotados, ya desesperados pedimos un rioja el que se pudiera, nos traen un Roda ll 2004, bien, el vino se presenta caliente, en fin bochornosa situación.",['DRINKS'],['negative']
+"La carta es poco atractiva, los calamares a la andaluza imposibles, pimientos de cristal con anchoas, nadando en aceite de calidad mediocre, bacalao con crema de puerros, tapado por una exagerada llamémosla ensalada de rucula, el conjunto del plato mal, paletilla de cordero bien en su ejecución, los postres flojos muy flojos.",['FOOD'],['negative']
+El local aco*edor y bien instalado.,['AMBIENCE'],['positive']
+Entramos con gran expectación y salimos muy decepcionados. ,['RESTAURANT'],['negative']
+"Buen restaurante, buen servicio y buena cocina.Pero… al ser tan pequeño, el humo del tabaco te arruina toda la cena.","['RESTAURANT', 'AMBIENCE', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive', 'negative']"
+A ver si cambian pronto la ley y podemos degustar la buena cocina sin alteraciones apestosas como la del tabaco… ,"['AMBIENCE', 'FOOD']","['positive', 'negative']"
+"En dos palabras?-una mierdaEn mas palabras?Caro, hortera, parece una cueva, raciones minimas y platos de lo mas normales.Lo unico de autor, es la foto que realmente es digna del premio a la vergüenza ajena, (…). ","['FOOD', 'RESTAURANT', 'AMBIENCE']","['negative', 'negative', 'negative']"
+"Una vergüenza lo que nos han cobrado, han sugerido los entrantes y nos han cobrado 9 euros por cada plato de pan con tomate.Hemos ido 12 y hemos pagado caso 700 euros y hemos tenido que pedir que nos invitaran a un chupito.","['RESTAURANT', 'FOOD']","['negative', 'negative']"
+Un plato de jamon de entrante..25 euros??,['FOOD'],['negative']
+y el pan que no hemos pedido.. en fin os recomiendo a todos que no piseis este sitio porque os cobraran solo por entrar.,['RESTAURANT'],['negative']
+Por este dinero como de verdad en un sitio en condiciones ,['RESTAURANT'],['negative']
+"es un restaurate unico en zaragoza, es pequeño, comodo y muy privado, la decoracion es perfecta ya que lo hace muy acojedor, el servicio es normal, pero la comida es muy especial y de muy buena calidad.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'neutral']"
+es un restaurate para repetir mi nota es de 9.,['RESTAURANT'],['positive']
+"Respecto al precio , si lo  comparas con la calidad y el sevicio y la exclusividad esta perfecto , mas si lo comparas con otros restaurates de esta clase en el resto de españa.",['RESTAURANT'],['positive']
+"solo dijo que es un sitio alucinate,comida sevicio y decoracion, lo que mas me gusto fue la comida ya que es de muy buena calidad, espero que en un futuro se igual y que no cambie.","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+un sitio para repetir y recomendar .,['RESTAURANT'],['positive']
+"del precio, si lo comparas con la calidad , la atenciones y el lugar ,esta a la altura ",['RESTAURANT'],['positive']
+"recomiendo este sitio.Fui a cenar con mi novio por mi cumple,y samilos encantados,repetiremos seguro.",['RESTAURANT'],['positive']
+"Todo en pequeñas cantidades pero buenísimo,myuy bien cocinado,y el trato perfecto.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"No es para ir todas las semanas,pq es un poco más caro,q el tipico restaurante informal,pero merece la pena,para una celebración especial.",['RESTAURANT'],['neutral']
+Gracias¡¡¡ ,['RESTAURANT'],['positive']
+DE VERGÜENZA!!!,['RESTAURANT'],['negative']
+"38 euros con bodega incluida.Los platos no estuvieron mal: jamón ibérico con pan con tomate, calamares con pimientos de padrón, patatas confitadas con foie y arroz meloso (de setas).",['FOOD'],['neutral']
+"De segundo a elegir varios platos entre los que se encontraban bacalao, rape, solomillo, cochillino, steak tartar,…Los primeros eran centros que para degustar estaban bien, pero vamos, escasos.",['FOOD'],['positive']
+"Si de segundo hubiese habido un buen plato no digo ni ‘mu’, pero no.",['FOOD'],['negative']
+Pero de nuevo escasos (y nada nada especiales).,['FOOD'],['negative']
+"Al final pagamos: 38 por persona, 10 euros por un plato de tomate de la huerta que cultiban ellos (ofrecido de repente teniendo el menú cerrado y sin avisar del precio), 2 euros por café, 5.5 por pacharán (de esto no digo nada, si lo pides lo pagas) y 13 euros por una botella de vino teniendo el menú cerrado.","['DRINKS', 'FOOD']","['negative', 'negative']"
+Resumen: como decía el título: sinvergüenzas!!!,['RESTAURANT'],['negative']
+No se puede ir de sofisticado engañando e intentando sacar dinero de cualquier despiste de los comensales.,['RESTAURANT'],['negative']
+Me parece vergonzoso que cobren una botella porque al ser 6 personas en el menú sólo corresponden 2.,['DRINKS'],['negative']
+Sobre todo siendo el precio de 38 euros (más iva) y siendo la comida más bien escasa y sin aportar más calidad que la de muchos otros sitios a mejor precio.,"['RESTAURANT', 'FOOD']","['negative', 'neutral']"
+"Eso sí, me río después de que ellos se han reído de mi bolsillo.",['RESTAURANT'],['negative']
+EVITADLO SI PODÉIS!! ,['RESTAURANT'],['negative']
+"Estuvimos cenando un grupo de amigos el sábado 19 de noviembre, y he de decir que el local levanta muchas espectativas, que luego se ven defraudadas por la comida, normalita, la cantidad no escasa, sino mínima, el servicio muy defieciente, y el precio astronómico.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'neutral', 'negative', 'negative']"
+"En definitiva, un restaurante con muchas ínfulas que se queda en nada.",['RESTAURANT'],['negative']
+NO LO RECOMIENDO EN ABSOLUTO. ,['RESTAURANT'],['negative']
+"y cenamos de maravilla, tanto en calidad como en cantidad.",['FOOD'],['positive']
+El servicio tambien estuvo a la altura.,['SERVICE'],['positive']
+"El lugar es precioso y acogedor; fue todo excelente, lo recomiendo a todas aquellas personas que con elegancia quieran disfrutar. ","['RESTAURANT', 'AMBIENCE']","['positive', 'positive']"
+Estupenda cena el sábado por la noche con un bono de Groupalia.,['RESTAURANT'],['positive']
+Excelente calidad y precio.,['FOOD'],['positive']
+"Hoy y mañana sigue estando la oferta, pero si alguno quiere comprarla.40 € por un menú degustación con buen producto, muy bien cocinado e incluido gin-tonic, creo que es imbatible.Eso sí, para mi gusto el gin tonic mejor sin violeta, aunque soy un amante de los caramelos de violeta, mejor cada cosa en su sitio. ",['FOOD'],['positive']
+"Sábado por la noche,  reservo para 4 personas en el colette, y al llegar no sólo no tenemos reserva sino que el colette, supuestamente de más calidad que el Quartz, ya no existe como tal,  nos  dicen que se han fusionado, son el mismo restaurante y nos buscan una mesa en este ultimo.",['RESTAURANT'],['negative']
+"Sin  ofrecernos la carta de menús nos dan la carta de platos, supongo  a ver si cuela, hasta que preguntamos por los menús, que entonces nos explican las excelencias de sus menús, que no es de mala calidad aunque pedimos una botella de vino de la carta, ya que no se puede elegir color, pero el servicio no nos parece acorde con la supuesta calidad del restaurante.",['SERVICE'],['negative']
+"El local es estrecho y alargado por lo que al fondo es difícil comunicarse sin gritar sí está lleno , como es el caso.",['AMBIENCE'],['negative']
+"Unico en Zaragoza, Ya era hora!!!.",['RESTAURANT'],['positive']
+"Excelentes istalaciones, muy buena atención e inmejorable cocina… digno de probar.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Lo recomiendo!!! ,['RESTAURANT'],['positive']
+"Un domingo a mediodía pague la novatada de comer alli, pero una y no más.",['RESTAURANT'],['negative']
+"Tiene 6 meses, estabamos en todo el restaurante unas 13 personas y tres camareras y el servicio FUE PENOSO mucho guante blanco puesto pero te dejan los mismos cubiertos de los entrantes hasta los postres, los platos se acumulan en el centro de la mesa y no te los quitan, necesita pan y tienes casi que rogarlo.",['SERVICE'],['negative']
+"Las raciones escasas para lo que te cobran, por ejemplo una plato con tres colmenillas con foi y tres corazones de alcachofas rebozado en tempura te sablean 22 euros y el solomillo no llega escasamente a los 60 gramos.",['FOOD'],['negative']
+"Eso si mucha mariconada de caramelos con lagrimas de acite pero como se te caiga un cubierto o avisas a la camarera, si la pillas, o te lo limpias tu.",['SERVICE'],['negative']
+NO LO RECOMIENDO ,['RESTAURANT'],['negative']
+"He estado en diversas ocasiones realizando el circuito termal y luego hemos comido en el restaurante.La comida nos aparecido buena a las personas que hemos estado comiendo, eso si nunca hemos comido el menu, siempre que hemos comido nos hemos dejado aconsejar por la persona que nos a atendido en la mesa, normalmente hemos compartido unos entrantes y luego cada uno a elegido lo que deseaba.Lo cierto es que muy bien. ","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Nosotros también pasamos un par de noches en el Balneario con circuito y pensión completa y desde luego los menús dejaron bastante que desear.,['FOOD'],['negative']
+Una pena para las instalaciones tan excelentes que hay. ,['RESTAURANT'],['negative']
+"Yo voy mucho al Balneario Paracuellos de Jiloca, y la comida que me dan siempre es ESTUPENDA, te ponen mucha cantidad y ademas con calidad.La relación calidad precio esta muy bien.",['FOOD'],['positive']
+OS LO RECOMIENDO A TODOS.,['RESTAURANT'],['positive']
+"Comimos en el comedor del balneario que por cierto es de felicitar la comida, que bien comimos.",['FOOD'],['positive']
+"comimos tambien y la comida es ESTUPENDA, te dan a elejir además la comida esta buenisima.!!!",['FOOD'],['positive']
+"La atencion de todo el personal de recepción, del comedor, del balneario es buenisima te hacen sentir muy comoda y como en casa.",['SERVICE'],['positive']
+La comida muy buena y abundante además el día de antes te dan a elegir que quieres comer el día siguiente.Nos gusto todo mucho y pronto volveremos!!! ,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"1/02/2012 No se como puede la gente quejarse de la comida en el restaurante del balneario,nosotros estuvimos 9 dias y la comida fue variada muy abundante y exquisita.",['FOOD'],['positive']
+"La atencion de las camareras excepcional,volveremos aunque solo sea por la atencion recibida gracias a todo el personal por vuestra atencion. ","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Es una apreciación, pero el conejo al ajillo, precisamente se cocina así, con el aceitito de haberlo cocinado, que lleva todo el sabor.",['FOOD'],['positive']
+"ES el balneario donde peor hemos comido con diferencia de los demás que conozco,mala elaboración , poca variedad ni tan siquiera los desayunos son apetecibles ",['FOOD'],['negative']
+"En cuanto a lo que es la comida, sinceramente no está mal.",['FOOD'],['neutral']
+"No son platos rimbombantes (ya varias personas me han dicho que es mejor la comida de Alhama de Aragón), pero se dejan comer y estaban bien.",['FOOD'],['neutral']
+"Yo recuerdo que pedí chipirones guisados y estaban muy buenos, como un puré de marisco que estaba riquísimo.",['FOOD'],['positive']
+"Aunque fuera más o menos normal el resto (los entremeses de balneario sí son los mismos que los que aparecen en la foto), se dejaba comer.",['FOOD'],['neutral']
+"No será para entrar en paladares selectos, pero no era malo.",['FOOD'],['neutral']
+"Desde luego me lo esperaba peor por los comentarios, pero no es así, afortunadamente. ",['RESTAURANT'],['positive']
+"Servicio amable y correcto, algo lento la cocina, tal vez habia una gran ocupación.",['SERVICE'],['positive']
+"Comida, entrantes correctos salvo los pinchos mal, el arroz caldoso de cigalas bien.",['FOOD'],['negative']
+Es un restaurante muy profesional con una buena calidad de cocina y una mejor relacion calidad/precio.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"El servicio esta por debajo de lo anterior, pero el conjunto es bueno y muy recomendable","['RESTAURANT', 'SERVICE']","['neutral', 'positive']"
+Un servicio y una comida más que correcto.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Repetiría de local a la hora de celebrar otra cena de grupo.,['RESTAURANT'],['positive']
+Buen menú desgustación.,['FOOD'],['positive']
+La calidad de la comida es muy buena así como el servicio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Repetiré.,['RESTAURANT'],['positive']
+"El pasado sábado cenamos con unas amigas, nos invitaron a una copa de capa y la comida fue excelente así como abundante, muy buena relación calidad precio y el comedor muy agradable asi como el servicio.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+Muy Mal.,['RESTAURANT'],['negative']
+Hicimos un menú de grupo y resultó superescaso con una ración de pescado que daba risa verla.,['FOOD'],['negative']
+El solomilloo debia ser de bisabuelo porque estaba malisimo.,['FOOD'],['negative']
+La comida muy buena y muy buen trato.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Aunque cuando llegué a casa me di cuenta que no me aplicaron el 10 % de descuento que decía la reserva.,['RESTAURANT'],['negative']
+Pésimo.,['RESTAURANT'],['negative']
+"El trato de los camareros hacia los clientes fue bastante malo: bordes, malas caras, etc... ",['SERVICE'],['negative']
+La comida fatal y para colmo el precio.,['FOOD'],['negative']
+Es caro y se come mal,"['RESTAURANT', 'FOOD']","['negative', 'negative']"
+"Estuve el pasado viernes por la noche, fue increible, el servicio de los camareros impecble y muy simpáticos, la comida muy lograda, muy recomedable a la vez que muy acogedor","['RESTAURANT', 'SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+"realmente ha sido todo un hallazgo, en pleno centro de barcelona, un local donde se coma buen menu tanto en dias laborables como en festivo.","['LOCATION', 'FOOD']","['positive', 'positive']"
+"San Jordi ha sido la prueba con toda la familia, y salio redondo, un buen servicio con un buen precio y","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+buen servicio menu excelente,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Cena para dos con una muy buena atencion del servicio, encontramos un restaurante tranquilo y acogedor.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"La comida, en nuestro caso una ensalada xato para compartir y un magret de pato, excelente!",['FOOD'],['positive']
+"Lo recomiendo, volveremos.",['RESTAURANT'],['positive']
+"Nos presentamos con la intención de elegir platos a la carta, pero nos presentaron un menú muy correcto y a precio ajustado, por lo que ésa fue nuestra selección.",['FOOD'],['positive']
+Los platos muy correctos en presentación cantidad y sabores.,['FOOD'],['positive']
+El servicio y atención muy bien.,['SERVICE'],['positive']
+Volveremos,['RESTAURANT'],['positive']
+"La atención no es mala, pero si se reserva, no se debe montar la mesa a parte si se ha dado cuenta que la sala comedor esta llena, si no para que reservar?",['SERVICE'],['neutral']
+"La ración un poco corta para lo que se cobra por plato, aunque bien confeccionada.",['FOOD'],['negative']
+"Muy buen trato, muy buena comida, un sitio ideal para ir de menú comiendo calidad.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Como siempre han estado a la altura, calidad precio perfecto y servicio inmejorable, extremadamente amables.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Muy cómoda la situación para trasladarse con transporte público, metro y bus al lado.",['LOCATION'],['positive']
+La atención al cliente no es la correcta y la comida no está a l´altura del precio.,"['SERVICE', 'FOOD']","['negative', 'negative']"
+"La atención buena, pero el resto fatal; ","['RESTAURANT', 'SERVICE']","['positive', 'negative']"
+"Hay mucha suciedad, no es cómodo, los lavabos muy sucios, el ambiente esta super trasnochado, y la cocina fatal, comida sin textura, muy industrial, como un menú de diario, a 10,0 €.","['FOOD', 'AMBIENCE']","['negative', 'negative']"
+"<->Pedimos a la carte (no menú del día) paella como plato principal- casi quemada, arroz pasado.",['FOOD'],['negative']
+"<->Gambas resecas y no sabemos por que, pero lo llenaron con trozos de esa ""sucedanio en forma de palo- pero con sabor a gamba""  que era casi caucho-imposible de comer.",['FOOD'],['negative']
+<->No pudimos comer ni la mitad de la paella,['FOOD'],['negative']
+<+>personal amable.,['SERVICE'],['positive']
+<+>entrantes pasables -normal de sabor,['FOOD'],['neutral']
+Relacion calidad precii muy buena.,['FOOD'],['positive']
+La comida era toda fantastica.,['FOOD'],['positive']
+Volveremos seguro.,['RESTAURANT'],['positive']
+"Bien en general, un poco lento el servicio","['RESTAURANT', 'SERVICE']","['positive', 'negative']"
+Correcto.,['RESTAURANT'],['positive']
+Servicio diligente con voluntad de cumplir.,['SERVICE'],['positive']
+"La cocina mejorable, al lado de platos excelentes por ejemplo el bacalao, otros no tanto como el atun, demasiado hecho.Aplicaron correctamente el descuento promocional.","['RESTAURANT', 'FOOD']","['neutral', 'positive']"
+"Cocina excelente,todos los platos que pedimos estan exquisutos",['FOOD'],['positive']
+"Bonito restaurante, buen ambiente y servicio.","['RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Extremadamente juntas las mesas.los platos sin sabor alguno.,"['FOOD', 'AMBIENCE']","['negative', 'negative']"
+El pan excelente.,['FOOD'],['positive']
+"Entrada algo desordenada, con papel en suelo.vibración del metro y ruido de sala molesto.",['AMBIENCE'],['negative']
+"Si la comida tuviese sabor, lo demás da igual.",['FOOD'],['negative']
+Excelente ubicación e iluminación.,"['LOCATION', 'AMBIENCE']","['positive', 'positive']"
+"Perfecta relación calidad-precio, servicio muy atento y comida exquisita.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Totalmente recomendable.,['RESTAURANT'],['positive']
+"Los camareros muy agradables y atentos, los entrantes son muy buenos.","['SERVICE', 'FOOD']","['positive', 'positive']"
+La paella bien por el precio.,['FOOD'],['positive']
+Todo estuvo muy bien.,['RESTAURANT'],['positive']
+excelente menú desgustacion que va de menos a mas con dos platós finales realmete buenos.,['FOOD'],['positive']
+"El restaurante ""La Cullera de Boix"" es excelente tanto por el ambiente como el servicio, no tuvimos ningún problema.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"Los servicios en estado lamentable, y los manteles, copas etc.",['AMBIENCE'],['negative']
+pueden mejorar la limpieza.,['AMBIENCE'],['negative']
+En cuanto a la comida y servicio de personal se puede afirmar que estava muy correcta.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Personal amable pero la comida muy floja.,"['SERVICE', 'FOOD']","['positive', 'negative']"
+"Sin ninguna gracia, arroz poco sabroso.",['FOOD'],['negative']
+No lo recomendaría!!!,['RESTAURANT'],['negative']
+"En estos tiempos que corren vamos todos a por los descuentos sin renunciar a la calidad, este restaurante dio la talla en cuanto al menú degustación que escogimos, por cierto, todo buenísimo, las cantidades muy acertadas, el arroz caldoso nos gustó bastante.",['FOOD'],['positive']
+La atención de todo el personal fue muy buena y el local acogedor.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+Volveremos.,['RESTAURANT'],['positive']
+<+>La atencion,['SERVICE'],['positive']
+Estamos muy contentos.,['RESTAURANT'],['positive']
+"Fuimos 21 personas, trato excepcional, la cena estuvo bien.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"El unico inconveniente el espacio, apenas nos podiamos mover.",['AMBIENCE'],['negative']
+Por lo demás muy bien.,['RESTAURANT'],['positive']
+"Magnífica atención, buena carta de vinos, muy buen paella.","['DRINKS', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Repetiremos.,['RESTAURANT'],['positive']
+"La comida muy buena, elegimos el menú degustación y es muy completo.",['FOOD'],['positive']
+"Lo único que tardaron mucho en traer la comida, esperamos mas de media hora y el menú estaba cerrado de antemano.",['SERVICE'],['negative']
+"Realmente una gran decepción, pésimo servicio, además no sólo la bebida no está incluida sino que no te ponen ni pan ni siquiera agua.","['DRINKS', 'RESTAURANT', 'SERVICE', 'FOOD']","['negative', 'negative', 'negative', 'negative']"
+Estupendo el arroz caldoso con bogavante y muy buen trato.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Es la seguna vez que vamos y la verdad es que la primera vez tuvimos una mala experiencia por un malentendido pero esta última vez todo fue bien.,['RESTAURANT'],['negative']
+Nos atendieron de maravilla y después de las cenas nos regalaron una cuchara de madera a cada uno.,['SERVICE'],['positive']
+"Celebramos en este restaurante nuestras Bodas de Plata y tengo que decir que fue todo perfecto, el servicio muy atento y amable y la comida estupenda, yo destacaría las croquetas del aperitivo (deliciosas) y como no, la paella.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Por poner algún pero, quizá el jamón no era todo lo ""ibérico"" que cabía esperar.",['FOOD'],['negative']
+Es un Restaurante muy recomendable.,['RESTAURANT'],['positive']
+"Sitio tranquilo, raciones correctas, lo mejor los arroces y el precio.","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"El local tiene un ambiente muy agradable, y la comida es exquisita.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+El trato del personal fue muy bueno.,['SERVICE'],['positive']
+El menú  degustacion nos pareció bueno y variado con un servicio muy atento y un trato agradable y la comida estaba buena con una buena relación calidad precio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Fue todo genial.,['RESTAURANT'],['positive']
+No podemos dar ni una sola queja porque del primer momento que entramos hasta nuestra salida todo fue estupendo.,['RESTAURANT'],['positive']
+"La comida exquisita, abundante, el ambiente y servicio muy agradables.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"Para un menu gastronomico, si la comida es solo buena, por no decir discreta (en lo que a paella como plato principal se refiere) el resultado fue algo decepcionante, aunque el precio podria considerarse excepcional.","['RESTAURANT', 'FOOD']","['positive', 'negative']"
+"Hubiera mejorado con un mejor trato, servicio mas predilecto, mesa mas confortable.","['SERVICE', 'AMBIENCE']","['negative', 'negative']"
+"Por ejemplo: paella, antes de emplatar, tanto cuesta mostrarla?",['SERVICE'],['negative']
+"Esperaba un poco más del arroz, por lo demás, todo muy correcto.","['RESTAURANT', 'FOOD']","['neutral', 'positive']"
+"Un menú estupendo, muy completo.",['FOOD'],['positive']
+"El trato muy bueno, muy amables, el arroz exquisito y a mitad de precio, lo recomiendo.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Solo para emergencias, no recomendable.",['RESTAURANT'],['negative']
+"Restaurante correcto sin más pretensiones, abundante la comida pero sin una calidad extraordinaria.","['RESTAURANT', 'FOOD']","['neutral', 'positive']"
+"El servicio pésimo, lento y no se enteraba de nada.",['SERVICE'],['negative']
+El arroz tampoco me sorprendio.,['FOOD'],['neutral']
+No creo que repita.,['RESTAURANT'],['negative']
+Asistimos al restaurante para una cena de Navidad de la empresa y la relación calidad - precio nos soprendió.,['FOOD'],['positive']
+Muy buena carta y platos abudantes.,['FOOD'],['positive']
+El servicio es muy amable y diligente y el entorno (estuvimos en la sala privado) agradable.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+"Hicimos la cena de trabajo y estuvimos muy bien atendidos, el servicio muy bueno y la comida de las mejores que hemos hecho un dia como este que los restaurantes se llenan de grupos.","['SERVICE', 'FOOD']","['positive', 'positive']"
+No bajaron ni la calidad ni la presentacion.,['FOOD'],['positive']
+Aunque estabamos varios grupos no sufrimos por el ruido y nosotros pudimos hablar sin gritar.,['AMBIENCE'],['positive']
+Arróz muy bueno y buena cantidad.,['FOOD'],['positive']
+Muy bueno restaurante.,['RESTAURANT'],['positive']
+"Nada más entrar un olor impresionante a cocina poco limpia, luego unos entrantes ",['AMBIENCE'],['negative']
+"de miedo, navajas con tierra, musclos con sabor a ""no se"", calamares que parecian tortillitas, vino blanco poco frio, jamon ""iberico"" calificacion 5 justito y por fin la paella muy buena la verdad, despues para rematar la faena los lavabos sucios, en la renfe creo que estan mas limpios, pues nada mas ""muy contentos"", no volveremos mas.","['DRINKS', 'RESTAURANT', 'AMBIENCE', 'FOOD']","['negative', 'negative', 'negative', 'negative']"
+Muy bien.,['RESTAURANT'],['positive']
+Pica pica y vino muy buenos.,"['DRINKS', 'FOOD']","['positive', 'positive']"
+Servicio muy bueno y nos han tenido en cuenta.,['SERVICE'],['positive']
+"Mesa apartada por lo tanto, intimidad.",['AMBIENCE'],['positive']
+Servicio y calidad correctos.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Excelentes arroces.,['FOOD'],['positive']
+Todo muy bien,['RESTAURANT'],['positive']
+"Estuvimos en este restaurante en noche vieja y estuvo todo muy bien, la comida muy buena y el sitio agradable.","['RESTAURANT', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+"El servicio correcto, trato agradable, el precio también.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Los arroces espectaculares, muy bien.",['FOOD'],['positive']
+"El restaurante está muy bien, céntrico, buenos precios y la comida muy buena.","['LOCATION', 'RESTAURANT', 'FOOD']","['positive', 'positive', 'positive']"
+"Éramos un grupo de 11 y nos prepararon una mesa un poco apartadita y el tarto fue muy bueno,lo recomiendo.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Merece la pena el menu degustación, por 32,50 euros tiene una calidad excelente.",['FOOD'],['positive']
+"El tapeo en la barra es fantástico, variado y precio correcto.",['FOOD'],['positive']
+"Me pase el viernes para conocerlo, me quede impresionado del diseño del local, y no digamos con la carta que tienen, probé entre otras cosas un huevo a 65 grados con una tierra y chistorra que era para caerse al suelo.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Los precios son increíblemente razonables.,['RESTAURANT'],['positive']
+Merece la pena desde luego. ,['RESTAURANT'],['positive']
+Local decorado muy moderno y elegante.,['AMBIENCE'],['positive']
+la terraza con sillas de director en la misma linea de elegancia.,['AMBIENCE'],['positive']
+La comida y el servicio muy bien y el precio mejor todavía.,"['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Muy recomendable. ,['RESTAURANT'],['positive']
+"El sábado 01-11-14, estuvimos cenando mi pareja y yo, y otra pareja, y salimos todos encantados, yo este sitio solo lo había visitado para tomar una tapa, y como he visto que la gente hablaba bien de la carta, lo probamos y efectivamente fue un total acierto, hacia tiempo que no encontraba un sitio con tanta amabilidad desde el principio al final, por lo que yo puedo hablar, la comida estaba buenísima, elegimos el menú degustacion , y todo estaba riquísimo, el tiempo de los platos correcto, no tardaban nada, ademas dentro del menú entraba todo agua, vino, cafés e incluso chupitos, yo la verdad pienso volver, y pienso probar el resto de la carta, para saber si todo esta, tan rico como el menú que tomamos.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Yo invito a la gente que lo prueben y opinen, ya que es un sitio también muy bonito y acogedor.",['AMBIENCE'],['positive']
+Si siguen así pienso que pueden tener un buen futuro. ,['RESTAURANT'],['positive']
+"El local me encanta, el servicio muy bueno, la comida genial, aunque yo destacaría el huevo a 65 grados y el sashimi de atun que es para flipar y una torrija que te dan ganar de repetir, estuve allí el miércoles pasado con unas amigas y tenemos claro que volveremos , ah!","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+por cierto los precios muy razonbles ,['RESTAURANT'],['positive']
+"la comida muy buena y atención buenísima, el menú degustación se queda bastante corto de cantidad, necesitas pedir algún plato mas y eso te eleva el precio, ya que las raciones son muy justas ","['SERVICE', 'FOOD']","['positive', 'positive']"
+Muy bien.,['RESTAURANT'],['positive']
+Cena estupenda trato excelente. ,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"La carta tiene platos muy apetecibles, es difícil decidirse y el trato es correcto.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Sí es cierto que tardaron muchísimo en atendernos y que faltan pequeños detalles como una carta de vinos.,"['DRINKS', 'SERVICE']","['negative', 'negative']"
+"Algunos de los platos, no tenían la calidad que esperamos (como el pulpo braseado) y no pudimos probar el atún porque se les había terminado.. ",['FOOD'],['negative']
+El precio puede ser algo elevado pero es un lugar agradable. ,"['RESTAURANT', 'AMBIENCE']","['negative', 'positive']"
+"Nos gusto mucho el sitio, la comida y la atenciónTomamos el menu desgustacion y merece la pena, las raciones no son generosas pero no te vas con hambre, solo una pega: que la carne estaba templadaMuy recomendable para quien busca calidad y no cantidadAdemas no hay sorpresas de que si te cobro mas por pedir otra botella de vino o el pan……Ademas café y chupito incluido en los 34€/persona ","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+"Estuve cenando ayer por la noche, tenía ganas de probarlo, la verdad es que la comida estaba buena, de hecho felicitamos al cocinero (creo que se llamaba César).","['SERVICE', 'FOOD']","['positive', 'positive']"
+"El problema quizá pudo ser que en vez de pedir el menú degustación tiramos de carta, y sinceramente, me pareció un poco caro en relación con el tamaño de las raciones, a saber, un pulpo asado con langostinos, un atún rojo con teriyaki y algas, un steak tartare, un helado de ferrero rocher, la torrija con helado, dos aguas, una copa de vino y una cerveza 53 euros en total.",['RESTAURANT'],['negative']
+"Y si bien repito que la comida estaba muy correcta, incluso por encima de la media de lo que se come en muchos sitios, lo cierto es que la cantidad de las raciones era justita.",['FOOD'],['positive']
+"Habrá quien diga con razón que 53 euros por cinco platos no es caro si están buenos, pero es que hoy en día la restauración ha cambiado mucho, y se puede comer muy bien por precios más asequibles en otros restaurantes de la ciudad, entre ellos algunos de los que comenta el Sr. Aranda en este blog.",['RESTAURANT'],['negative']
+"En cualquier caso un sitio interesante para cenar, en concreto el pulpo con langostinos, delicioso. ","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Pedimos el menú degustación y la verdad estaba todo muy bueno.,['FOOD'],['positive']
+"Los canelones de gallina trufados, excelentes, así como el huevo y el postre.",['FOOD'],['positive']
+Volveremos sin dudarlo. ,['RESTAURANT'],['positive']
+Buena calidad y precio razonable.,['FOOD'],['positive']
+Nos gusto tanto que al día siguiente fuimos a cenar.,['RESTAURANT'],['positive']
+Increíble.,['FOOD'],['positive']
+No es común encontrar tanta calidad hoy en día y eso se agradece.,['FOOD'],['positive']
+"El único “pero” es el tiempo de espera entre plato y plato, pero entiendo que no es excesivo si tenemos en cuenta que los platos son muy elaborados y se hacen en el momento. ",['SERVICE'],['neutral']
+"Pues discrepo del anterior comunicante Yo suelo comer mucho en el Frances y aunque es cierto que ha bajado algo la calidad se sigue comiendo bien, abundante y en un sitio acogedorLo recomiendo porque a pesar de todo se sigue comiendo bien es cierto que se echa en falta a jose el dueño, ahora estan los hijos y siempre pierde algo al pasar d euna generacion a otra  ","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+Menos mal que le puedo leer por una vez  una crítica acertada.felicidades sr. Aranda. ,['SERVICE'],['positive']
+"Restaurante diferente, creativo y agradable.",['AMBIENCE'],['positive']
+La comida buenísima y sorprendente y el servicio impecable.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Volveremos. ,['RESTAURANT'],['positive']
+La comida estupenda y el trato magnífico. ,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Excelente trato y excelente comida, muy recomendable. ","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+La comida excelente.,['FOOD'],['positive']
+el servicio un poco lento. ,['SERVICE'],['neutral']
+"Buena voluntad pero exceso d ingredientes a fusionar,nada sublime ni sorprendente,amabilidad mucho camino x delante,no para repetir,a destacar q como el vino elegido no nos gustó nos lo cambiaron sin coste ","['RESTAURANT', 'SERVICE', 'FOOD']","['negative', 'negative', 'negative']"
+Mi opinión es que entonces es una estafa.,['RESTAURANT'],['negative']
+"lo mejor el jamon en lugar de sidreria pondria jamoneria, en mivida tome mejor jamonun saludo ",['FOOD'],['positive']
+Destaca en todo lo que ofrece y lo hace de manera sobresaliente con la carne y los pescados.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Absolutamente recomendable.,['RESTAURANT'],['positive']
+"En mi opinión, es uno de los restaurantes mas profesionales de Zaragoza . ",['RESTAURANT'],['positive']
+"En mi opinión, uno de los mejores restaurantes de Zaragoza.",['RESTAURANT'],['positive']
+Lo he visitado en varias ocasiones y he de destacar la excelente calidad de la materia prima y el saber hacer en la cocina.,['FOOD'],['positive']
+"Puedes encontrar desde un chuletón bien trabajado, pasando por unos pescados en su punto justo o irte a menús mas elaborados, llenos de sabor y contrastes sin adulteraciones en el sabor.",['FOOD'],['positive']
+Relación calidad-precio fantástica.,['FOOD'],['positive']
+Absolutamente recomendable.,['RESTAURANT'],['positive']
+Todo óptimo.,['RESTAURANT'],['positive']
+"Rioja (divino y de una cosecha ""excelente"").",['DRINKS'],['positive']
+Este restaurante es uno de los valores más seguros de la cocina catalana en Barcelona.,['RESTAURANT'],['positive']
+Siempre es excelso en su comida y perfecto en su servicio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+El ambiente también es de maravilla.,['AMBIENCE'],['positive']
+Hacia tiempo que no habia estado y la experiencia fue muy decepcionante.,['RESTAURANT'],['negative']
+Extremadamente caro por el tipo de cocina.,['FOOD'],['negative']
+"Croquetas oleosas, salmón marinado insulso y escaso láminas transparentes, alcachofas con almejas duras  y sosas de vivero cuando el precio del plato fue de 28€, el carpaccio de rape  testimonial.",['FOOD'],['negative']
+El trato del maitre que nos tomó nota fue de muy poca profesionalidad impresionante y rozando la mala educación.,['SERVICE'],['negative']
+me encanta.,['RESTAURANT'],['positive']
+Un restaurante muy recomendable.,['RESTAURANT'],['positive']
+La comida es deliciosa y las cantidades son más que aceptables.,['FOOD'],['positive']
+Algo caro pero sin duda muy recomendable para comer bien en Barcelona.,"['RESTAURANT', 'FOOD']","['negative', 'positive']"
+Prefiero no opinar por el desengaño que tuve.,['RESTAURANT'],['negative']
+"Empecé el día con buen pie y lo continué escogiendo el lugar idóneo para comer, charlar  con los amigos y estar muy bien atendida.",['RESTAURANT'],['positive']
+El local te ayuda a conseguir que puedas intercambiar ideas con  quienes compartes la mesa dado el bajo tono en que los comensales mantienen sus conversaciones.,['AMBIENCE'],['positive']
+El servicio excelente.,['SERVICE'],['positive']
+"Atentos, educados, discretos, todos cuantos nos atendieron y al despedirnos acudieron a darnos el último adios y el ""hasta la próxima.."" Prometimos volver pero esa vez con muchos más amigos a los que, previamente, habremos informado de ese almuerzo que nos redondeó un sábado inolvidable.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+Gracias.,['RESTAURANT'],['positive']
+Es muy buen restaurante.,['RESTAURANT'],['positive']
+"Este es mucho mas elegante, el trato muy correcto y la ambientacion te hace sentir muy a gusto.","['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+La comida de calidad.,['FOOD'],['positive']
+Recomiendo los calçots rebozados.,['FOOD'],['positive']
+Sin duda repetiremos.,['RESTAURANT'],['positive']
+el restaurante y la comida estupenda.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Pero la mujer que esta de cajera que fue quien nos recibio desde el primer momento nos hablo en catalan incluso dandose cuenta de que no lo entendiamos.,['SERVICE'],['negative']
+Hemos comido bastante bien.,['RESTAURANT'],['positive']
+"Los primeros bien, la carne excelente.",['FOOD'],['positive']
+El trato exquisito.,['SERVICE'],['positive']
+"Se nota que llevan un mes y medio y les falta un poco de rodaje, pero se le ven ganas de agradar para ganarse la clientela.",['RESTAURANT'],['neutral']
+Deberían revisar las raciones que sirven: son realmente escasas!!,['FOOD'],['negative']
+"Comida y servicio excelentes, única pega la ya mencionada; raciones muy ""minimalistas"".","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Por esto mismo no doy un 10 en ""calidad-precio"", aunque la calidad sea excelente.",['FOOD'],['positive']
+"La reserva sin ningún problema, la atención inmejorable, preguntándonos si todo estaba en orden y el punto de la comida.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Destacar la presentación, todos los platos, muy buena.",['FOOD'],['positive']
+"Y el lugar está muy bien decorado, sencillo, pero elegante.",['AMBIENCE'],['positive']
+"Mi acompañante una sopa de cebolla, que de textura y de sabor estaban muy buenas, pero parecía poca cosa, porque en pocas cucharadas se acaba de comer enseguida.",['FOOD'],['positive']
+"Y de segundo merluza con almejas en salsa verde, que eran pocos trozos, pero de primera calidad y muy bueno.",['FOOD'],['positive']
+"Si bien agradecía que no fueran unas cantidades muy grandes, no es lo que se suele comer en casa.",['FOOD'],['neutral']
+"Yo pedí foie con tostadas, que la cantidad era más que correcta, si bien había pocas tostadas para la cantidad que era de foie.",['FOOD'],['neutral']
+"Muy buen sabor, en cualquier caso.",['FOOD'],['positive']
+"Y el segundo, paletilla de ternasco, de tamaño un pelín escaso (era en forma de redondo) y muy rico.",['FOOD'],['positive']
+"Sin embargo, yo que soy de comer bastante, me daba la sensación de comer poco.",['FOOD'],['negative']
+Muy bueno y con helado de limón.,['FOOD'],['positive']
+Lo que sí me da la sensación es de haber comido poco.,['FOOD'],['positive']
+"Cosa que no me quedé con hambre, pero las raciones eran pequeñas en comparación con el precio.",['FOOD'],['negative']
+Yo vi por ejemplo un plato de judías verdes que era una cantidad muy muy pequeña que eran los comensales vecinos que teníamos a nuestro lado.,['FOOD'],['negative']
+"Está muy bien el lugar, estupendamente presentado, servicio inmejorable, buenos productos y de primera calidad, pero cantidades bajo mi punto de vista escasas, sobre todo si eres de comer mucho.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"Hemos cenado muy bien, el menú montecito,la atención estupenda,El ambiente muy acogedor, la botella de vino de 500cc, se queda escasa para la cena.","['DRINKS', 'SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive', 'negative']"
+"Es lo único reseñable, debería ser de 750cc,Bien calidad-precioLo recomiendo ",['RESTAURANT'],['positive']
+Estuve este sabado pasado cenando y he de felicitar tanto al restaurante como al camarero que nos atendio y por supuesto la comida.,"['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Un sitio muy bonito, bien atendido, personal muy agradable, la comida bien servida y sin esperas y el sitio encantador.","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Volveremos.,['RESTAURANT'],['positive']
+(El entrecotte de vaca estaba delicioso) ,['FOOD'],['positive']
+aceptable.,['RESTAURANT'],['positive']
+muy  bien cortado el jamon y de buena calidad.,['FOOD'],['positive']
+bastante bien el resto fe lis entrantes.,['FOOD'],['positive']
+"mejorables las costillas,ya que se anuncia costillas y se incluyen chuletas.",['FOOD'],['neutral']
+en conjunto bien. ,['RESTAURANT'],['positive']
+"Servicio bienentorno muy agradable, realmente recomendable podremos repetir seguro.En cuanto a la comida relación precio calidad buena, los platos bien servidos y con cantidad suficiente, no nos quedamos con hambre, estuvimos tres personas.Unicamente comentar que seguramente por la hora que eran casi las 5 de la tarde, las brasas no debian de estar en su punto puesto que tanto el entrecot de vaca como el ternasco no tenian la presencia de es primer golpe de calor que los pone doraditos.","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+Estaban buenos pero he comido brasas mejores.,['FOOD'],['neutral']
+"Por lo demas todo perfecto, lo recomiendo y lo pongo entre mis favoritos.",['RESTAURANT'],['positive']
+"Ayer Celebramos La Comunion De Nuestra Hija,Fue Un Dia De Lluvia,Pero No Importo Porque Nos Los Preparativos Estaban De Sobresaliente ,Tanto En El Local Como En Lo Demas,La Atencion De Los Camareros Fue Destacable La Comida Toda Fue Genial.El Ternasco Salio Bordado.Muchas Gracias Por Todo Sois Los Mejores. ","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"Trato agradable, buen servicio, la comida llegaba en su punto….","['SERVICE', 'FOOD']","['positive', 'positive']"
+Hoy he ido a comer con mia padres y he salido muy defraudado.,['RESTAURANT'],['negative']
+"La comida ha sido de lo más corriente comparada con el precio, 45€ por persona.",['FOOD'],['negative']
+Creo que en esos precios hay que ser más exigente tanto en la calidad del menú como sobre todo en la calidad del servicio.,"['SERVICE', 'FOOD']","['negative', 'negative']"
+Camareros con poca experiencia y poco preparados para el precio pagado.,['SERVICE'],['negative']
+No volveré. ,['RESTAURANT'],['negative']
+El sitio es muy acojedor y relacion calidad precio miy bien.,"['RESTAURANT', 'AMBIENCE']","['positive', 'positive']"
+Lo recomiendo muy contento. ,['RESTAURANT'],['positive']
+"15.01.09 vieira con sopa, 21€ sin gusto.",['FOOD'],['negative']
+"presa iberica 30 € así no se presenta la presa ibérica, no me ha gustado, lo peor los postres, merengue, fresas…9€.","['RESTAURANT', 'FOOD']","['negative', 'negative']"
+"no me quejo del precio, sino de la cocina.",['FOOD'],['negative']
+Lo mejor el aperitivo. ,['FOOD'],['positive']
+"el local gusta de entrada pero no llega a ser acogedor, pero eso no es lo que mas me importa, me fijo mas en el servicio de sala y cocina.el servicio de sala, correcto, (solo eso, falta una persona, por el precio que se paga).","['SERVICE', 'AMBIENCE']","['neutral', 'neutral']"
+"el pan: escaso en sus variedades, y muy sencillo, sin ningun tipo de sabores, harinas o frutos.comenzamos: el agua, no pedimos ninguna rara, pues nadie nos dio la opcion, nos sacaron el agua embotellada en plastico (imcomprensible).","['DRINKS', 'FOOD']","['negative', 'negative']"
+"comenzamos con un foie frio en crujientes de manzana, escaso , resultaria demasiado, (de verguenza) llevaria 30 grs de foie, lo demas correcto; huevo poche con bogavante y trigueros, correcto, cantidad suficiente, pero como toda la comida, plana,insulsa, sin sabores.presa iberica, racion justita, pero sabrosa, como he comentado antes todo soso (somos personas que nunca nos añadimos sal a las comidas en todos estos restaurante) merluza, una racion impresionante, tanto en tamaño como en punto de coccion, sosa tambien, pero recomendable.",['FOOD'],['negative']
+"los postres, no aportan nada nuevo, simples, buenos pero nada mas.a los cafes, nada de pettite fours, (lamentable por 175 € de dos personas, sin cobrarnos los cafes). ","['DRINKS', 'RESTAURANT', 'FOOD']","['neutral', 'negative', 'negative']"
+"La primera sorpresa fue que no nos preguntaran si deseábamos tomar un aperitivo, pero lo que más nos sorprendió que al pedir agua con gas nos dijeran que no se les había acabado.","['DRINKS', 'SERVICE']","['negative', 'negative']"
+Me pareció imperdonable para un restaurante con aspiraciones.,['DRINKS'],['negative']
+"Muy mala organización.Para este momento ya estábamos logrando acomodarnos en las sillas, muy modernas pero difíciles.","['SERVICE', 'AMBIENCE']","['negative', 'neutral']"
+"Lo más destacable para mí fueron las excelentes verduras que acompañaron todos los platos, con unos puntos de cocción breves y ajustados, muy en la línea de Martín Berasategui.",['FOOD'],['positive']
+Extraordinario el trabajo en este aspecto.,['FOOD'],['positive']
+"El tomate en texturas estaba muy sabroso, aunque la espuma resultaba un tanto dura.",['FOOD'],['positive']
+"Los espárragos, las judías verdes, la crema de coliflor, el broccoli,  todos muy bien tratados.",['FOOD'],['positive']
+"Las combinaciones muy equilibradas,  tal vez la que menos decía era el tomate con el atún marinado, pero el bogavante y sobre todo el huevo poché, mucho mejor.",['FOOD'],['positive']
+"Eso sí, un poco repetitivas las huevas, en los tres primeros platos.",['FOOD'],['negative']
+"La merluza bien de punto, aunque un poco sosa, dio paso a lo que para mí fue la sorpresa del día, un trocito de chuletón exquisito de sabor y en su justo punto de cocción que me dejó con ganas de más.Los postres aprobado justito, el primero alrededor del vino tinto, con un sorbete para mí demasiado dominado por la canela y con una espuma de vino de nuevo demasiado consistente.",['FOOD'],['neutral']
+Muy logrados los orejones y el sorbete.Otro punto negativo en el servicio fue que intente tomar un vino dulce y la respuesta fue decepcionante.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Al final pude tomar una copa de Pedro Ximénez.Con el café, que estaba muy bueno,  no hubo ningún acompañamiento, pobre, muy pobre para este nivel de restaurante.",['DRINKS'],['positive']
+"El vino con que acompañamos la comida fue un Atteca de Calatayud, recomendación de la casa, excelente.",['DRINKS'],['positive']
+"Como curiosidad,  ¡la botella etiquetada sólo en inglés y en francés!En resumen: muy buen nivel técnico, dominio de los puntos de cocción y gran profesionalidad en la cocina, combinaciones estéticamente modernas pero bastante conservadoras en lo que a sabores respecta - salvo en el trato a las verduras.",['FOOD'],['positive']
+"De resaltar que todos los precios incluyen el IVA, un detalle que debería ser obligatorio.",['RESTAURANT'],['positive']
+"En cuanto a defectos: Las cantidades, demasiado escasas.",['FOOD'],['negative']
+"En los postres la ausencia del chocolate me parece personalmente imperdonable, pero eso ya es una cuestión personal.",['FOOD'],['negative']
+"Lo peor, para mí, el servicio.",['SERVICE'],['negative']
+"Muy justito, con algún fallo grave como el del agua o el del vino dulce, no estuvo a la altura de una estrella.","['DRINKS', 'RESTAURANT']","['negative', 'negative']"
+"Yo comí este martes, y de maravilla; como siempre.",['RESTAURANT'],['positive']
+"A mí me decepcionó también el restaurante, y lo que es peor, nos sirvieron un mero casi crudo que no había sido congelado previamente, incumpliendo de forma consciente la norma vigente al respecto (el propietario y cocinero se mostró especialmente “orgulloso” de no congelar los pescados).","['RESTAURANT', 'SERVICE', 'FOOD']","['negative', 'negative', 'negative']"
+"Qué pena que no sepan diferenciar entre un pescado cocinado “en su punto” y un pescado directamente crudo, donde la carne no se desprende de la espina por falta de calor y cocción.",['SERVICE'],['negative']
+"Y que conste que me encantan los “sushi” y los “sashimi”, pero una cosa es una preparación específica cumpliendo los requisitos para prevenir la ingesta de anisakis vivos y otra tomar un pescado salvaje poco cocinado, con gran probabilidad de existencia de parasitos activos.",['FOOD'],['negative']
+"Qué pena que se confundan las cosas, no hay nada peor que un “enterado” mal informado, como es el caso de este cocinero. ",['SERVICE'],['negative']
+"Por otro lado me alegro de coincidir con usted en los gustos, no tanto de que ambos saliéramos decepcionados de este restaurante, porque supongo que a usted, igual que a mi, nos hubiera gustado salir contentísimos del Bal d’Onsera, recomendarlo por doquier y no tener la sensación de haber perdido tiempo y dinero, al menos yo.",['RESTAURANT'],['negative']
+"Pocas veces coincide la opinión de uno mismo con la de otros “criticos gastronómicos”, pero pocas veces he podido estar más de acuerdo que con la de D. José Aranda:Mi mujer y yo fuimos el pasado 25 de mayo (martes)a celebrar algo especial a este restaurante y salimos decepcionados.",['RESTAURANT'],['negative']
+Nos planteamos el porqué de su estrella y nos dolió el bolsillo.,['RESTAURANT'],['negative']
+La verdad no me acuerdo de ningun plato del menú degustación que tomanos (sintomático).,['FOOD'],['negative']
+"Tan solo recuerdo una sosísima y poco fresca merluza.Cuando vas a un lugar de estos esperas todo y tal vez te vuelvas menos permisivo que con otros, pero aun con esto no merece la pena el restaurante.","['RESTAURANT', 'FOOD']","['negative', 'negative']"
+"A mí personalmente no me gusta ni la calle ni la zona de Zaragoza (debería estar más céntrico), pero dicho esto si que valoro y mucho la amplitud de las mesas redondas (que no me puedo explicar desde el punto de vista económico dado que si todas las mesas se ocupan sólo por dos comensales significa una menor facturación).","['LOCATION', 'AMBIENCE']","['negative', 'positive']"
+Es un gozo y deleite tener una mesa con mantel tan grande para tí y tu acompañante.,['AMBIENCE'],['positive']
+Para mí el SERVICIO de este restaurante lo valoro como de los mejores porque no molestan.,['SERVICE'],['positive']
+Ambas dos muy discretas como se requiere en este tipo de establecimeinto.,['SERVICE'],['positive']
+"-LA CARTA DE VINOS: Desgraciadamente no me considero un experto  pero dado las dimensiones tan reducidas del local, me parece una carta muy acertada.",['DRINKS'],['positive']
+"Además me sorprende la promoción de los mejores vinos de nuestra región, cosa que no he visto apostar por ellos tanto como este restaurante.Los precios?",['DRINKS'],['positive']
+Permítame decirle que no puede valer el mismo vino en este establecimiento que en cualquier otro.,['DRINKS'],['positive']
+LA CARTA: En este punto coincido en su acierto de pedir el menú degustación.,['FOOD'],['positive']
+Aquí es donde el cocinero nos puede sorprender y deleitar con su saber hacer.Yo tengo que reconocer que la 1º vez me sorprendió gratamente.,['SERVICE'],['positive']
+Experimenté sensaciones diferentes y fue un placer culinario que pocas veces había experimentado.,['FOOD'],['positive']
+"Entonces no tenía la Estrella Michelín pero ya se podía intuir que iba a caer.La cocina es imaginativa, moderna, sofisticada, etc¿Que se quedó con hambre?",['FOOD'],['positive']
+Pues no me lo creo.,['FOOD'],['positive']
+"Si no te gusta tienes los WOK que es un self-service hasta que no puedas más…  Por terminar, le diré que a este restaurante le faltan cosas.",['RESTAURANT'],['negative']
+De lo que estoy de acuerdo totalmente con usted es del maridaje de los vinos.,['SERVICE'],['negative']
+¿Cómo vamos a pedir un  vino si no somos adivinos de los platos que nos van a sacar?En este punto fallan.,['SERVICE'],['negative']
+"Y respecto al precio, pues es el que es.",['RESTAURANT'],['neutral']
+"Un último comentario a favor del cocinero es que el pasado año estuvo invitado en la pasada Expo en China (salió en prensa), y los platos que presentó en la semana española eran típicos aragoneses (borraja, ternasco… y todo con vinos aragoneses).Con esto lo único que quiero indicar es mi sorpresa por la propaganda de la comida aragonesa, cosa que me alegro que alguien la defienda ( y lo dice un aragonés español).",['SERVICE'],['positive']
+"Para Gonzalo, le voy a contestar brevemente: No me gusta que me peloteen, al personal de sala tampoco le gusta hacerlo, pero a veces hay que reconocer que entra dentro de su “labor” porque hay a quién le gusta, pero es distinto pelotear que interesarse por el bienestar de los comensales, sobre todo cuando se llevan un plato enterito de nuevo a cocina, un “¿no les ha gustado?”, “¿está todo bien?”, a la hora de recoger los platos no molesta,no es peloteo, es educación.",['SERVICE'],['negative']
+"Dice que no me cree cuando comento que no entendía a la persona que me traía los platos cuando los presentaba, pues le puedo asegurar que la chica no hablaba castellano ni a medias, ¿qué quiere que le diga?, si quiere pregunte en el restaurante el personal que tenían para esas fechas, es algo tan sencillo de validar que no merece más palabras.",['SERVICE'],['negative']
+"Tampoco se cree que me quedé con hambre, pues sí, me quedé con hambre, y a mi me gusta cuando voy a comer a un restaurante, independientemente del nivel y precio, salir comido, sino no lo llamaría ir a comer… podríamos decir ¿vamos a una exhibición de cocina al restaurante Bal d’ Onsera donde incluso, por 80 euros por persona, nos permiten probar un poquito de cada creación?, pero eso sí, luego a comer nos vamos a casa.",['FOOD'],['negative']
+"Buenos días,Soy una cliente habitual de este restaurante y una convencida de este tipo de cocina.",['RESTAURANT'],['positive']
+(pense).El resultado no pudo ser mas decepcionante.,['RESTAURANT'],['negative']
+"Para empezar la puerta parece la del almacen, llamas al portero automatico y te abren (aunque esto me direis que es secundario).",['AMBIENCE'],['negative']
+"Una vez dentro la decoracion es como le gustaria a mi mujer que fuera la de nuestra casa: minimalista.Del mobiliario solo decir un par de cosas: las sillas incomodas y las mesas del tamaño de “La Misericordia”, si no acercamos las sillas entre si parece que estoy comiendo enfadado con mi mujer.",['AMBIENCE'],['negative']
+"Para finalizar con los previos antes de entrar con la comida un comentario: un poquito de musica de ambiente daria intimidad, se oia todo lo que se decia en las otras 5 mesas que estaban ocupadas (todas ellas con parejas con cupones de descuento como nosotros).",['AMBIENCE'],['negative']
+"- Carpaccio de bonito: Seria bonito, no lo discuto, pero no me supo a nada, totalmente insipido, tambien tenia remolacha, igual de insipida, y un helado de, creo recordar que de mango, que si tenia algun sabor.",['FOOD'],['negative']
+"- Vieira y langostino al azafran con verduras de invierno: Si observais en el nombre del plato esta en singular la vieira y el langostino y el motivo no es otro que habia uno de cada, en este caso los sabores, imposible de eliminar, eran correctos, el azafran estar estaria, pero ni me supo ni lo vi.",['FOOD'],['negative']
+-Bacalao al pil pil aireado: Ninguna objecion (es lo mejor que puedo decir).,['FOOD'],['neutral']
+"-Risotto de hongos trufa y foie: El foie tiene poco misterio una sarten y nada mas, es muy dificil estropearlo,ahora bien el risotto corrio peor suerte, era risotto, de eso estoy seguro, por que lo vi, granos de arroz y demas pero sabor, eso si muy intenso, a nata y solo a nata.",['FOOD'],['negative']
+"- Carrillera de ternera glaseada: Blanda como la mantequilla pero no sabia a nada de nada, totalmente insulsa.",['FOOD'],['negative']
+"- Limon, mango y moscatel, fresas con vino: El postre estaba bueno (sin mas).Terminamos la comida con un Gin Tonic con preparacion gourmet (ponia en el cupon de descuento): El combinado salio prepado de la cocina.",['FOOD'],['positive']
+"Lamento ser yo quien os diga que los combinados se preparan en la mesa, de la cocina sale el vaso (o lo que sea, en este caso copa) con el hielo y la rodajita de limon, lima o lo que sea y la ginebra se sirve delante del cliente al igual que la tonica, no es por suspicacia es por practica habitual (no se me pasa por la mente dudar de los ingredientes pero no queda bien).",['DRINKS'],['negative']
+"Ahora es el turno del servicio: correcto en el trato pero lento es poco, entre plato y plato unos tiempos de espera inaceptable.He dejado para el final un pequeño detalle, para algunos sin importancia, y es el tamaño de las raciones: Se puede poner menos en cada uno de los platos pero eso es muy muy dificil (menos mal que habiamos tomado el aperitivo en Palomeque donde las raciones si son generosas)Con todo esto mi opinion creo que queda clara y añadire solo una cosa mas: Sali sintiendome estafado ","['RESTAURANT', 'SERVICE', 'FOOD']","['negative', 'negative', 'negative']"
+"Al sentarnos a la mesa, ya nos dicen que el solomillo de ternera se les había terminado (principio de semana, primeros en llegar a cenar, con un menú cerrado y avisando con dos semanas de tiempo….), que nos darían chuleta de ternera… primer chasco, creo que no es comparable (y desde luego, no lo fue, requería masticarlo muuucho tiempo).",['FOOD'],['negative']
+"Seguidamente de advertirnos el cambio, nos pregunta si un vino blanco nos parecía bien para empezar, por lo que, ante esa pregunta, le comenté si no iban a servir los tres vinos que aparecían en el cupón, a lo que nos respondió que una de las bodegas, no les suministraba hasta noviembre…algo que a mi personalmente, me parece estupendo… pero no nos lo iban a servir!!!, ya que habían considerado suficiente dos vinos, uno blanco y uno tinto..  Me parece que cuando has pagado por un menú cerrado, se deberían de ajustar a lo que has comprado, ya que si no, es una estafa, y si luego ven que no tienen margen suficiente, cuando saquen otro bono, que ajusten el menú a lo que les parezca, así el consumidor puede elegir antes de comprar.Pues no acaba todo ahí, le preguntamos por el cava y nos dice, que tampoco lo servían, que creían que el menú está bien así!!!","['DRINKS', 'RESTAURANT']","['negative', 'negative']"
+"Por supuesto, como era un momento especial, no quise montar ningún circo, ni pedir el libro de reclamaciones, pero la sensación con la que salí de ese restaurante no fue buena, me sentí estafada.En fin, que no lo aconsejo para nada, el sitio es bonito, la comida buena, pero excesivamente caro para lo que realmente es, y por supuesto, no animo a nadie a que compre cupones para comer allí, puesto que se arriesgan a que les sirvan lo que ellos consideren en ese momento, independientemente de lo que hayas pagado con anterioridad. ","['FOOD', 'RESTAURANT', 'AMBIENCE']","['negative', 'negative', 'positive']"
+"Estube ayer dia 22 de febrero en el restaurante bal d’osera y mi sorpresa fue que primero se disculpan porque aun no tienen percheros, luego las mesas tambien te dicen que son provisonales (que no hubieran abierto aun, si no podian) porque el precio desde luego no lo han bajado.",['AMBIENCE'],['negative']
+"Para mi con esta reforma a perdido encanto, pues estas cenando sin privacidad, viendo y oyendo a la gente que hay en la barra del bar.",['AMBIENCE'],['negative']
+Con lo cual en el comedor tienes que levantar mas la voz para oirte y se forma un ambiente que no lo que se espera de una estrella michelin. ,['AMBIENCE'],['negative']
+"Yo estube el dia 6-12-08 y la verdad muy bien;el ambiente es un poco fasion las paredes toralmente blancas,las sillas muy modernas pero comodas y sin ningun cuadro.",['AMBIENCE'],['neutral']
+"Pedimos al a carta y de aperitivo nos sacaron una cucharita de brandada de bacalao con un chupito de caldo de ardo y espuma de almendras,la verdad estaba muy delicado.",['FOOD'],['positive']
+"de primero cogimos un risoto de hongos trufa y un super medallon de foie fresco pasado por la plancha y unas borrajas con centollo estaban las dos cosas muy buenas y cocidas al dente.de segundo la merluza a la plancha con juliana de sepia y un solomillo de ternasco al azafran,l amerluza estaba poco hecha por dentro pero caliente y el solomillo poco hecho tambien y con muy poca salsa;y d epostre una seleccion de chocolates en texturas con zumo de naranja reducido y un merenge con helado de chocolate blanco y fresas;muy bueno todo,dos cafes y una botella de agua por 123 euros. ",['FOOD'],['positive']
+Esta reserva fue un acierto.,['RESTAURANT'],['positive']
+La relación calidad precio es muy buena.,['FOOD'],['positive']
+El servicio excelente.,['SERVICE'],['positive']
+Raciones grandes.,['FOOD'],['positive']
+"Los camareros son atentos y muy amables, el menú calçotada es interminable!","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Lo mejor, las alcachofas a la brasa (estaban de lujo) y los calçots con tejas, buenísimos!",['FOOD'],['positive']
+La salsa estaba muy buena también.,['FOOD'],['positive']
+Tuvieron un detalle al cambiarme la parrillada de carne por una parrillada de verduras (opción vegetariana).,['FOOD'],['positive']
+¡Repetiré seguro!,['RESTAURANT'],['positive']
+"La comida bastante bien (calidad y cantidad), aunque tardó en ser servida (es cierto que estaba lleno, el local, pero... hay que preveerlo teniendo más personal o cogiendo menos servicios).","['SERVICE', 'FOOD']","['positive', 'positive']"
+"El lugar, más agradable de lo que parecía, aunque con la música excesivamente alta (difícil conversar, por el volúmen de la música y la cantidad de comensales).",['AMBIENCE'],['positive']
+Algo caro para el conjunto del restaurante.,['RESTAURANT'],['negative']
+"Pero correcto, digno, bien.",['RESTAURANT'],['positive']
+"Interior genial, comida de calidad.","['FOOD', 'AMBIENCE']","['positive', 'positive']"
+Servicio atento y rápido.,['SERVICE'],['positive']
+MUY RECOMENDABLE,['RESTAURANT'],['positive']
+La calçotada estuvo bien pero en cuanto a la carne estaba algo escasa o mejorable en calidad sin alterar el numero de piezas.,['FOOD'],['positive']
+"Genial, un sitio estupendo y magnífica atención","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+El menú calçotada magnífico,['FOOD'],['positive']
+"Comida - 6.5 ( el plato principal, los calsots, costaban de pelar debido a que la raíz no estaba cortada y su calidad no era muy buena.",['FOOD'],['positive']
+La salsa romesco estaba muy buena.,['FOOD'],['positive']
+La carne y butifarra también estaba muy bien.,['FOOD'],['positive']
+El postre también nos gustó).,['FOOD'],['positive']
+"Servicio - 4 (Nos sentimos un poco invisibles por el personal, simplemente se dedicaron a servir la comida.",['SERVICE'],['negative']
+son típicas preguntas que encontré a faltar para una atención.,['SERVICE'],['negative']
+"Nos dieron la opción de repetir calsots, siempre es un detalle que se agradece pero no suficiente para aprobar el servicio. )",['FOOD'],['positive']
+"Ambiente - 9 ( bueno para comer una calsotada en pareja y tranquilo, que fue el caso)",['AMBIENCE'],['positive']
+"calidad-precio - 7 ( el producto calsot se puede mejorar, la carne muy correcta y el postre también ) .",['FOOD'],['neutral']
+Apruebo el restaurante pero si mejoran la calidad del calsot es recomendable 100% para hacer una calsotada en pleno centro de Barcelona.,"['RESTAURANT', 'FOOD']","['positive', 'negative']"
+Cenamos muy bien...calidad precio razonable.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+El servicio excelente...aunque no nos gustó como el jefe de sala le presionaba a los camareros..no se merecen ese trato ..y menos delante de los clientes.,['SERVICE'],['positive']
+En general salimos satisfechos..sin duda ..volveremos,['RESTAURANT'],['positive']
+Al principio nos parecieron un poco bruscos y habiendo reservado nos iban a dar la peor mesa del restaurante.,['SERVICE'],['negative']
+Pero pedimos que nos cambiasen y a partir de ahí todo fenomenal.,['RESTAURANT'],['positive']
+Buena atención y ambiente.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+Comida excelente aunque tuvimos que pedir varias veces lo mismo por falta de coordinación en el servicio.,"['SERVICE', 'FOOD']","['positive', 'negative']"
+Muy bien en general.,['RESTAURANT'],['positive']
+"Ambiente muy bueno, el local muy agradable y bonito.",['AMBIENCE'],['positive']
+Los calçots buenisimos,['FOOD'],['positive']
+Excelente.,['RESTAURANT'],['positive']
+Precio y calidad adecuados.,"['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Servicio rápido y eficiente.,['SERVICE'],['positive']
+El ambiente muy acogedor.,['SERVICE'],['positive']
+"Nos gustó mucho, porque aunque estuviera lleno la atención fué inmejorable y rápida.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"También valoro su localización, para los que no tenemos coche se llega muy facilmente ya que es muy céntrico.",['LOCATION'],['positive']
+¡¡Felicidades!!,['RESTAURANT'],['positive']
+Un restaurante de ambiente moderno donde la comida está en su ounto y el trato es muy amable.,"['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"Lo mejor decision, comer por alli!",['RESTAURANT'],['positive']
+correcto,['RESTAURANT'],['positive']
+"Comimos muy bien toda la familia, el entrecot espectacular.","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+La presentación de todos los platos muy buena.,['FOOD'],['positive']
+Una experiencia muy satisfactoria.,['RESTAURANT'],['positive']
+El personal y sevicio es intachable.,['SERVICE'],['positive']
+"Servicio correcto, buena relación calidad-precio","['SERVICE', 'FOOD']","['positive', 'positive']"
+Muy buena comida y relación calidad-precio.,['FOOD'],['positive']
+Servicio amable,['SERVICE'],['positive']
+Muy buena comida y relación calidad-precio.,['FOOD'],['positive']
+Servicio amable,['SERVICE'],['positive']
+Muy buena brasa,['FOOD'],['positive']
+Estaría bien mejorar la calidad del vino.,['DRINKS'],['negative']
+Servicio excelente y al detalle junto a un buen equilibrio entre calidad-precio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+El menú carçot fue un acierto.,['FOOD'],['positive']
+"Muy correcta la atención, muy rápido el servicio.",['SERVICE'],['positive']
+Local de ambiente agradable.,['AMBIENCE'],['positive']
+Repetiría.,['RESTAURANT'],['positive']
+"bueno, calidad precio",['RESTAURANT'],['positive']
+"Comimos calçots con mis amigos extranjeros, por la noche y en Barcelona... no parecia la mejor manera de introducir este evento tipico catalan a mis amigos, pero en Balmes/Rossello comimos una calçotada digna de la mejor masia.",['FOOD'],['positive']
+"servicio estupendo, brasas de verdad, con alcachofas y parriladas.","['SERVICE', 'FOOD']","['positive', 'positive']"
+La salsa romesco estaba increible y no con demasiado ajo que te repite toda la noche como en algunos sitios!,['FOOD'],['positive']
+Super recomendable!!,['RESTAURANT'],['positive']
+"Comida abundante, buena relación calidad-precio si pides entrante+segundo se puede cenar por unos 12 euros",['FOOD'],['positive']
+"Fuimos 3 amigos a comer una calçotada y todos nos decian que las calçotadas en la ciudad no estaban buenas, que habia que ir a las afueras, sin embargo nos encanto, todo muy bueno, el trato estupendo, nos enseñaron a comer los calçots, y muy bien de precio, lo recomiendo sin duda.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"La comida fue decente, las bravas nada picantes y el servicio pobre en atencion.","['SERVICE', 'FOOD']","['positive', 'negative']"
+"El Rte Balmes- Rosello nos encanto por si servicio, localizacion, aseo y confort.","['LOCATION', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Todo exterior y luminoso con accesos faciles.,['RESTAURANT'],['positive']
+Felicitar desde aqii a la direccion.,['RESTAURANT'],['positive']
+Precio- calidad: excelente.,['RESTAURANT'],['positive']
+Repetiremis,['RESTAURANT'],['positive']
+"Todo muy correcto: relación calidad-precio, la facilidad para combinar menú calçotada con carta, servicio amable y la cocina muy bien.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+El comensal más joven de la mesa (20 años) aseguró que volvería por su cuenta.,['RESTAURANT'],['positive']
+Menú calçotada recomendable por su relación calidad-precio.,['FOOD'],['positive']
+"Si lo mantienen, el próximo año repetiremos!",['RESTAURANT'],['positive']
+"Fui con unos amigos mejicanos y tengo que decir que es raro hacer una calçotada en el centro de Barcelona, pero la experiencia fue excelente, nos ofrecieron más una vez terminados.","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+Realmente la comida exquisita y todo muy bien.,['FOOD'],['positive']
+Muy recomendable.,['RESTAURANT'],['positive']
+Fuimos a comer una calçotada y no hubo queja.,['FOOD'],['positive']
+"Muy buena la comida, un local muy bien decorado y un excelente servicio.","['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+Lo recomiendo.,['RESTAURANT'],['positive']
+El trato fue genial por parte de todo el equipo pero en general tuvimos la suerte de que el Sr. Jose pusiera parte de su colaboracion en el menu eligido.,['SERVICE'],['positive']
+Volveremos seguro,['RESTAURANT'],['positive']
+Supero nuestras expectativas y el precio estuvo bien,['RESTAURANT'],['positive']
+Muy buena comida y servicio rapido,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Comimos dos menus calçotades muy buenos!,['FOOD'],['positive']
+Los camareros muy majos y constantemente pendientes que no nos faltara de nada!,['SERVICE'],['positive']
+Lo unico que me parecio raro es que de postre no tenian la crema catalana!,['FOOD'],['negative']
+:( pero por lo demas lo recomiendo totalmente!,['RESTAURANT'],['positive']
+"Fui con mi mujer y mis suegros y todos quedaron encantados: servicio, velocidad, puntos de cocción, raciones, calidad/precio,  Solo dos peros: el vino de la casa tenía un punto de rancidumbre y que nos podrían haber puesto en un punto más céntrico del salón.","['DRINKS', 'RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+"Totalmente recomendable para una comida distendida, con aroma a brasa.",['RESTAURANT'],['positive']
+"Una amplia carta, comida rica y con buena calidad precio, servicio correcto y atento y ambiente muy animado, lo recomiendo para culquier ocasión...","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+"Realmente me sorprendio porque no habia ido nunca, eramos un grupo de 20 personas y fue genial, sitio muy acogedor, decoracion moderna, comida de calidad buena... Y un precio economico para ser Barcelona.","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Totalmente recomendable.,['RESTAURANT'],['positive']
+El servicio muy bueno tambien!,['SERVICE'],['positive']
+Muy atentos.,['SERVICE'],['positive']
+Buen servicio,['SERVICE'],['positive']
+"Camareros atentos, comida abundante y buenisima.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Ambiente genial!,['AMBIENCE'],['positive']
+Buenisimo!!,['FOOD'],['positive']
+Mucha comida!,['FOOD'],['positive']
+"Excelente relacion calidad/precio, raciones muy completas y ambiente muy agradable.","['RESTAURANT', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+El servicio perfecto.,['SERVICE'],['positive']
+Perfecto calidad-precio.,['RESTAURANT'],['positive']
+Todo muy correcto.,['RESTAURANT'],['positive']
+"Pedimos el menú calçotada, y los calçots dejaron muchísimo que desear.",['FOOD'],['negative']
+Eran muy pequeños en tamaño y algunos vacíos... ,['FOOD'],['negative']
+No volveré por eso.,['RESTAURANT'],['negative']
+La parrillada algo escasa...,['FOOD'],['negative']
+Fuimos 2 personas a tomar el menú de calçotada y la verdad es que el servicio fue bueno y la comida también.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Nos gusto.,['RESTAURANT'],['positive']
+Comimos muy bien.,['RESTAURANT'],['positive']
+Calidad y cantidad.,['FOOD'],['positive']
+Al llegar nos cambiaron a una mesa mejor que la que habían reservado inicialmente para que estuviéramos más tranquilos.,['SERVICE'],['positive']
+Muy buen trato y nos pusieron extra de calçots sin cobrarlo.,['SERVICE'],['positive']
+Muy buen recuerdo.,['RESTAURANT'],['positive']
+Perfecto.,['RESTAURANT'],['positive']
+"Atendiendo a la promoción, a mi juicio, ligeramente engañosa, en cuanto al precio de la carta ya que supera la media de 20-30 euros como se anuncia, sin realizar ningún exceso.",['RESTAURANT'],['negative']
+"Nos gustó mucho el lugar, muy biuen ambiente, tranquilo, muy buen servicio.","['RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Volveremos seguro!,['RESTAURANT'],['positive']
+"Muy agradable, buena relación calidad precio y buena cocina.","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Repetiremos seguro.,['RESTAURANT'],['positive']
+"Buen ambiente, buena comida, un sitio recomendable.","['FOOD', 'RESTAURANT', 'AMBIENCE']","['positive', 'positive', 'positive']"
+"La verdad es que todo estuvo muy bien, servicio atento y todo según lo esperado.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"Por poner alguna pega, la salsa de los calçots no era puramente romesco, pero estaba bien.",['FOOD'],['neutral']
+Seguramente repetiremos.,['RESTAURANT'],['positive']
+"Comida buena, servicio muy bueno, atención al cliente excelente.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Fuimos por la calçota y todo genial pero la salsa nos defraudó bastante sabia mucho a tomate.,"['RESTAURANT', 'FOOD']","['negative', 'positive']"
+"El Pan con tomate te lo sirven ya untado y tampoco nos convencio, algunos tenían demasiado tomate y personalmente me gusta hacermelo con un poco de ajo untado.",['FOOD'],['negative']
+"Lo temas todo muy bien, el precio muy correcto.",['RESTAURANT'],['positive']
+"Servicio muy bueno, quedamos contentos de la calçotada.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Personal de sala muy atento y alimentos de calidad y bien cocinados.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+"Sitio agradable aunque le falta un ""algo""",['RESTAURANT'],['neutral']
+Al servicio le falta bastante educacion.,['SERVICE'],['negative']
+Hemos pedido una ración de mejillones al vapor que estaban sin limpiar y una ración de gambas en la que ni siquiera nos han puesto cubiertos.,['FOOD'],['negative']
+Las gambas estaban buenas pero caras.,['FOOD'],['negative']
+"No volveremos, nos quedamos con “La Casa de Mar”. ",['RESTAURANT'],['negative']
+"He estado varias veces,el trato profesional y muy amable, en cuanto al producto, muy bien en calidad y cantidad, sin sorpresas ","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Es un sitio correcto, sin mas.",['RESTAURANT'],['neutral']
+para donde esta el precio es estable y no te das un susto.. ,['RESTAURANT'],['neutral']
+"Trato correcto,la comida lamentablemente mal desde un balalao gratinado crudo hasta una carrillera de vacuno recalentada en microondas y que se paso de calentamiento hasta quedar seca en las partes mas delgadas.","['SERVICE', 'FOOD']","['neutral', 'negative']"
+"Hasta nunca amigos,que tengan suerte la necesitaran. ",['RESTAURANT'],['negative']
+Primer plato simplon estilo cuartelero.,['FOOD'],['negative']
+El segundo besugo salsa que solo contenia la cabeza.,['FOOD'],['negative']
+"Devolucion a cocina,amabilidad de camarera,requerimiento de cuenta y adios.",['SERVICE'],['positive']
+Mal sabor de boca tras haber leido las criticas sobre todo por salir sin comer.,['FOOD'],['negative']
+Desde luego un desastre.,['RESTAURANT'],['negative']
+para no volver ,['RESTAURANT'],['negative']
+"No pude comentar, pero la verdad muy buen sitio, con platos contundentes.","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"De primero teníamos una ensalada rosa, que estaba muy bien para compartir, para comer luego una guindillas (algunas picaban) y posteriormente huevos con foie.",['FOOD'],['positive']
+"Para volver, sin duda. ",['RESTAURANT'],['positive']
+El sitio no es de los que deslumbra con su decoración de lujo  pero tiene esa sobriedad de los sitios que saben que no les hace falta.,['RESTAURANT'],['neutral']
+"Esta fue nuestra opción.Aparte de la comida pedida la casa invita a tres pequeños aperitivos en los cuales me gusto sobre manera el paté de anchoas.Los primeros elección del chef fueron un carpa-chio de pulpo, un bizcocho de setas pecs, unos langostinos y un canelos de perdiz escabechada.",['FOOD'],['positive']
+En general a un gran nivel todos los platos que fueron individuales así que da igual el numero de personas de la mesa los entrantes serán los mismos.,['FOOD'],['positive']
+"Tanto el solomillos ( mas que generoso el trozo ) como la presa, que son los dos únicos que probé tenían un toque perfecto de cocina ( según se pidió ) y por el resto de los comensales los demás platos tenían un gran nivel, siendo posible que el canelon de ternasco no fuera tan generosa la ración como en el resto de platos.",['FOOD'],['positive']
+"Los postres volvieron a ser una degustacion de diferentes tipos de postres que también tenían el nivel muy alto, acorde con el resto de la cena.",['FOOD'],['positive']
+Pero donde si que destaca este restaurante es sin duda en su EXTENSISIMA bodega con unos abanicos de precios mas que accesible para cualquier bolsillo ya que hay innumerables vinos que no pasan de los 20 euros aunque desde luego si buscamos algo mas de nivel desde luego el sitio y sobre todo su sumiller responden con gran eficacia y nivel.,['DRINKS'],['positive']
+"Y no solo es la gran variedad de vinos de mesa ( tinto, blanco o cava ) si no que tiene una aun mas amplia variedad de vinos de otros tipos  ( olorosos , amontillados, PX , oportos, …) sin olvidar los coñac y otros licores incluyendo su carta de puros.",['DRINKS'],['positive']
+"La cena estaba buenisima, es un menú muy, muy recomendable,  en el que destacaria el bacalao realmente gustoso y en su punto,y el postre.",['FOOD'],['positive']
+"Nos atendieron fenomenal a pesar de nuestra pequeña “faena” al restaurantem ya que de diez personas que ibamos a ser, tuvimos por motivos de salúd 4 bajas y solo fuimos 6.",['SERVICE'],['positive']
+PAra recomendar y repetir ,['RESTAURANT'],['positive']
+Estuvimos cenando un sábado en enero y nos decepcionó bastante.,['RESTAURANT'],['negative']
+El resto de platos no nos parecieron dignos de un restaurante de nivel.,['FOOD'],['negative']
+"Me refiero a la pincelada de mostaza q acompañaba a la carrillera, que lejos de ser una pincelada, era mucha cantidad y cuando se juntaba con la carrillera y la patata mataba el sabor de estos ingredientes, q eran los protagonistas del plato.",['FOOD'],['negative']
+Y poner “piedras” de esas q venden en tiendas turísticas como acompañamiento al café… ¡¡no tiene nombre!! ,['FOOD'],['negative']
+Genial!!,['RESTAURANT'],['positive']
+Todo estuvo muy bien ,['RESTAURANT'],['positive']
+"Bien, todo correcto. ",['RESTAURANT'],['neutral']
+"Ambiente agradable,servicio bueno y la relacion calidad precio buena.Buena elwccion. ","['FOOD', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Una muy buena atención y una estupenda selección y preparación en los platos.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Excelente.,['RESTAURANT'],['positive']
+Para repetir en otra buena ocasión que lo merezca. ,['RESTAURANT'],['positive']
+Elegimos la opcion del menu cerrado más economico para 4 personas y decir que la calidad-precio de lo que obtuvimos fue deficiente.El menu consistió en un aperitivo de crema de anochas que estaba realmente conseguido.,['FOOD'],['negative']
+Seguimos con un entrante de melon con jamon realmente diferente con helado que fue el mejor plato de la cena.,['FOOD'],['positive']
+A continuación pasamos a una dorada que estaba buena pero que era realmente escasa en cantidades.,['FOOD'],['neutral']
+Despues nos pusieron 3 albondigas de pollo de corral que fue sin duda el peor plato.,['FOOD'],['negative']
+La salsa era un chilindron con cierto sabor a agarrado y las albondigas no dejaban de ser eso…albondigas.,['FOOD'],['negative']
+Un plato asi como principal en un menu de 25 euros no parece normal.,['FOOD'],['negative']
+Por último el postre fue un chocolate blanco a la canela con helado de platano casero y mousse de galleta que era simplemente correcto.,['FOOD'],['neutral']
+"En resumen, calidad-precio para un menu de 25e deficiente y dudo mucho que volvamos a probar menus más caros. ","['RESTAURANT', 'FOOD']","['negative', 'negative']"
+Uno de los mejores de Zaragoza.,['RESTAURANT'],['positive']
+"Tanto por su historia, como por su cocina y su bodega.","['DRINKS', 'FOOD']","['positive', 'positive']"
+Servicio profesional y cercano.,['SERVICE'],['positive']
+Excelente atención y calidad ,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Todo muy correcto,['RESTAURANT'],['positive']
+"Muy rica la comida, servicio rapidísimo y atento.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Mis hijos quedaron encantados, y un precio razonable para esta parte del Ensanche.",['RESTAURANT'],['positive']
+Óptimo restaurante tanto en calidad como en servicio.,['RESTAURANT'],['positive']
+"Fue genial, nos atendieron muy bien y relacion calidad precio buenisima.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+El sitio muy bonito y como para un pequeño grupo como el que fuimos.,['AMBIENCE'],['positive']
+"Los camareros muy atentos, y la comida excelente, lo recomendaré","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Buen restaurante para ir en grupo con los amigos o compañeros de trabajo !,['RESTAURANT'],['positive']
+"buen ambiente , comida , atención y precio !!","['FOOD', 'RESTAURANT', 'SERVICE', 'AMBIENCE']","['positive', 'positive', 'positive', 'positive']"
+El único inconveniente el ruido ... pero vaya ... todo estupendo !!,"['RESTAURANT', 'AMBIENCE']","['negative', 'positive']"
+"Deliciosa comida, buen ambiente, precio correcto!","['RESTAURANT', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+Calçots abundantes pero demasiado gruesos.,['FOOD'],['neutral']
+Alcachofas brasa solo una mitad por persona.,['FOOD'],['negative']
+Cordero muy escaso.,['FOOD'],['negative']
+"El servicio muy atento y agradable, la comida en gran cantidad y de buena calidad.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Muy bien adaptados los menús para parejas.,['FOOD'],['positive']
+"Por poner algún ""pero"" diré que es una buena opción para grupos grandes antes que en pareja por el ruido ambiental.",['AMBIENCE'],['negative']
+Por el resto todo fantástico.,['RESTAURANT'],['positive']
+Calidad-precio muy bien.,['FOOD'],['positive']
+Servico muy amable.,['SERVICE'],['positive']
+Repetiremos.,['RESTAURANT'],['positive']
+Es un Restaurante muy recomendable.,['RESTAURANT'],['positive']
+Las carnes a la brasa son superiores.,['FOOD'],['positive']
+El menú calçotada es muy completo.,['FOOD'],['positive']
+"Cuando está lleno, la configuración del local amplifica el ruido.",['AMBIENCE'],['negative']
+"Buen ambiente, la comida genial, bien situado.","['LOCATION', 'FOOD', 'AMBIENCE']","['positive', 'positive', 'positive']"
+Altamente recomendable.,['RESTAURANT'],['positive']
+Es un lugar ideal para ir con un grupo de amigos.,['AMBIENCE'],['positive']
+Seguro que volveremos.,['RESTAURANT'],['positive']
+"Hemos comido muy a gusto, la comida excelente y el sitio muy acogedor.","['AMBIENCE', 'FOOD']","['positive', 'positive']"
+"El unico pero por decir algo, que el primer plato nos lo querian recoger casi sin haber terminado, pero luego todo estupendo.",['RESTAURANT'],['positive']
+Muy recomendable,['RESTAURANT'],['positive']
+"todo muy correcto, pero en principio no les constaba la reserva previamente hecha.",['RESTAURANT'],['neutral']
+"Fuimos a cenar la semana pasada y fue todo un descubrimiento, aunque nadie pidió pizza tienen una pinta estupenda y su horno es de leña, seguro volveremos para probarlas...","['RESTAURANT', 'FOOD']","['positive', 'positive']"
+"El sitio no está mal, pero lo clasifican como comida típica catalana y dieta mediterránea y en realidad es una pizzería-grill en la que además sirven calçots, escalibada y embutidos de la tierra.",['RESTAURANT'],['neutral']
+"La comida está buena y no es caro, pero el local es un poco lúgubre y falto de luminosidad.","['RESTAURANT', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'negative']"
+Servicio amable.,['SERVICE'],['positive']
+Al final pedimos un entrecot y estaba seco y era pequeño y una brocheta de ternera (en la que había solo 4 taquitos de ternera) y también estaba seca.,['FOOD'],['negative']
+No volveremos.,['RESTAURANT'],['negative']
+"Todo fue perfecto, tanto la atención del personal como sus productos.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Lo recomiendo.,['RESTAURANT'],['positive']
+No puedo disfrutar más en Maur!La calidad de sus carnes y verduras a la brasa es impresionante!,['FOOD'],['positive']
+Tampoco he probado nunca unas pizzas al horno de leña tan buenas.,['FOOD'],['positive']
+Un 10 en comida mediterranea!,['FOOD'],['positive']
+Pues tengo que decir que fue un exito.,['RESTAURANT'],['positive']
+"Les encanto a todos, muy buenos, bien hechos, y las carnes, patatas al caliu, alcachofas y escalibadas, realmente buenas.",['FOOD'],['positive']
+"Muy recomendable, tanto la calidad como el servicio.","['SERVICE', 'FOOD']","['positive', 'positive']"
+Realmente calidad muy buena y buena atención.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Las verduras a la brasa y los calçots estaban muy bien hechos y sabrosos.,['FOOD'],['positive']
+Repetiré!,['RESTAURANT'],['positive']
+CalÇots...y Alcachofas...sublimes ..creo que los mejores en Barcelona ciudad...,['FOOD'],['positive']
+Servicio un poco lento...pero entiendo que era viernes por la noche y Vamos que se ha convertido en uno de nuestros restaurante preferidos....(la proxima unas pizzas...que viendo la de nuestros vecinos de mesa....),"['RESTAURANT', 'SERVICE']","['negative', 'positive']"
+Comimos un menú calçots que no estaba mal pero tampoco era una maravilla.,['FOOD'],['neutral']
+"Generoso en cantidad, pero la calidad de la carne dejaba un poco que desear.",['FOOD'],['negative']
+"Así como el romesco, que era un poco ""de bote"".",['FOOD'],['negative']
+"Lo mejor, el sabor a brasa y la abundante cantidad de calçots.",['FOOD'],['positive']
+También la rapidez en el servicio.,['SERVICE'],['positive']
+"Variedad, cantidad, i excelente relación calidad-precio, a mejorar: el pan.",['FOOD'],['negative']
+Tengo cariño fundado por este restaurante.,['RESTAURANT'],['positive']
+Toda la brasa es excelente y te la sirven calentita.,['FOOD'],['positive']
+Para niños croquetas buenísimas y hamburguesas de buena calidad.,['FOOD'],['positive']
+"hace unos dias cenamos cuatro personas todas coincidimos en lo mismo, el poco dinamismo y simpatia del servicio, después la cena; el arroz caldoso, los chipirones no podían saber mas a amoniaco, la ensalada normal,vamos lo mejor el sorbete de mandarina y 30euros para esa calidad es desproporcionado totalmente.","['SERVICE', 'FOOD']","['negative', 'negative']"
+no volvere. ,['RESTAURANT'],['negative']
+Y me gustó mucho.,['RESTAURANT'],['positive']
+Las carnes muy bien preparadas.,['FOOD'],['positive']
+De postre me zampé una sopa de chocolate blanco que recomiento.,['FOOD'],['positive']
+El servicio atento y cordial.Volveré a ir. ,"['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+Grata sorpresa.,['RESTAURANT'],['positive']
+"Un genero sorprendente, fresco y sabroso como solo puedes encontrarlo en Cádiz y en el Puerto.",['FOOD'],['positive']
+"Probamos el jamón, los langostinos y el rodaballo, y aún se me hace la boca agua la recordarlo.",['FOOD'],['positive']
+Un imprescindible de Zaragoza. ,['RESTAURANT'],['positive']
+servicio fatal…las camareras son poco profesionales y unas maleducadas.,['SERVICE'],['negative']
+han subido bastante los precios.,['RESTAURANT'],['negative']
+la terraza es agradable pero faltan detalles ,['AMBIENCE'],['negative']
+"Buenas, estuviemos anoche 1/08/09 cenando, reservamos para 4 dos parejas, ibamos a pedir unas raciones y un pescado de segundo, pero al final nos decidimos a compartir raciones, el tomate a la andaluza nos lo sacaron de aperitivo mientras esperabamos (un detalle) la verdad que pedimos casi de todo y todo era de buena calidad, acompañado de un Blanc Pescador, la verdad que nos quedamos muy bien, el servicio bien y el precio pensamos que nos iba a salir mas caro por comer asi de raciones, pero fue bastantes ajustado, asi que lo recomiendo, las ortiguillas de mar que no lo habia probado nunca me gustaron mucho. ","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Ambiente tranquilo.,['AMBIENCE'],['positive']
+"Cocina muy bien presentada y con rapidez, todo en su punto y bien terminado.",['FOOD'],['positive']
+La dorada al estilo “el puerto” muy agradable con una salsa muy bien terminada aunque la presentaron sin descamar y eso fue algo incordiante a la hora de disfrutar de ella.,['FOOD'],['positive']
+Raciones amplias y muy abundantes.,['FOOD'],['positive']
+"El tomate, como entrante,  es algo especial a destacar.",['FOOD'],['positive']
+El vino muy bueno y el postre de puding es algo delicioso aunque le sobraba casi toda la nata (de bote) que llevaba de acompañamiento; mereceria plantearse otra presentacion.,"['DRINKS', 'FOOD']","['positive', 'positive']"
+"El precio no es barato pero comparado con sitios donde te van empujando de mala manera,  merece la pena.",['RESTAURANT'],['neutral']
+El servicio tranquilo y dejandote a tu manera aunque no quitan ojo a tus deseos.,['SERVICE'],['positive']
+"Para dos personas, recomiendo un menu especial el puerto y un segundo plato.",['FOOD'],['positive']
+"Me pareció un poco caro , será que no estoy acostumbrado a ir a este tipo de restaurantes.",['RESTAURANT'],['negative']
+"La calidad de la comida fue excepcional , asi como el trato personal.","['SERVICE', 'FOOD']","['positive', 'positive']"
+He ido un par de veces a cenar y no ha estado del todo mal.,['RESTAURANT'],['neutral']
+"Degusté el tomate a la andaluza, unas ortigillas de mar fritas, un besugo a la espalda y un postre se supone casero (pero no), típica tarta prefabricada y descongelada.",['FOOD'],['negative']
+"Decir que tanto el tomate (buenísimo) como el besugo estaba en su punto, pero hubo varias cosas que no cuadraban.",['FOOD'],['positive']
+"Las ortiguillas no se parecían en nada al recuerdo que yo tenía de las de Cádiz, había un par de personas fumando en zona de no fumadores, pero lo peor de todo fue la manera de atendernos de la “maitre”, era seria, seca, arisca y parecía estar dos o tres escalones por debajo del lugar en el que trabajaba, estaba poco dispuesta a nuestra atención ya que se le veía todo el rato en la cocina hablando con otra de sus compañeras. ","['SERVICE', 'AMBIENCE', 'FOOD']","['negative', 'negative', 'negative']"
+"07.02.08″   La comida de hoy,   “”Un lujo”.Todo a tiempo,,,, hemos comido unas tortillitas de camarones, unas gambas de huelva  para compartir y luego entrecot a la parrilla y la otra persona solomillo al jerez , todo ello regado con Enate -cabernet suavignon-, una maravilla de comida.El local acogedor , quizas un poco bullicioso para las pocas mesas que tiene -15-, el trato amable.","['DRINKS', 'SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+"Todo muy bien,,,, lo malo el precio, quizás algo caro , lo que os cuento  113,00 euros,,,, un poco caro pero por lo demás muy bien. ",['RESTAURANT'],['negative']
+"El 21/01/2014Fuimos Mi Pareja Y Yo A CenarEl Trato Muy CorrectoLas Tortillitas ,El Tomate Y Choco ExcelentesDe Segundo Un Rodaballo Y Una Presa Con Jamón 5 J Muy Bueno Y En Su PuntoA Mi Pareja Le Limpiaron El Rodaballo Y Se Notaba Que Estaba Acostumbrado A Hacerlo Pues Fue Rápida Y Muy Profesional La Camarera Que Nos Lo LimpioA Nosotros No Nos Cobraron El Pan Tal Vez Por Que Estabamos En La Zona Del Bar Y Eso Que Con El Primer Plato De Tomate Ya Nos Habiamos Comido Una Cesta Entera UntandoDe Postre Un Tocino De Cielo Que Estaba Francamente Bueno Y Después De Probar Muchos Estoy Casi Convencido De Que Era CaseroUn Detalle Con El Café Nos Pusieron Una Degustación De Chupitos GratisEl Chupito De Pedro Ximenez BuenísimoEl Precio 48,00€ Los Dos No Esta Mal Para Lo Que ComimosYa Que Probamos Cosas Que Si No Vas A Andalucía Es Difícil Que Las ComasEn Conclusión Volveré ","['DRINKS', 'SERVICE', 'RESTAURANT', 'FOOD']","['positive', 'positive', 'positive', 'positive']"
+El 15/03/14 fui a cenar con la familia a lo que creia seguia siendo un buen restaurante.,['RESTAURANT'],['negative']
+Qué decepción.,['RESTAURANT'],['negative']
+Lo único que valió la pena fue una ración de jamón y CUATRO banderillas.,['FOOD'],['positive']
+El cazón (bienmesabe) ni cazón ni bienmesabe era TIBURÓN MULTIVITAMÍNICO (eso me dijeron).,['FOOD'],['negative']
+"Los chanquetes, refritos.",['FOOD'],['negative']
+"El bacalao dorado, era un revuelto típico de bacalao.",['FOOD'],['negative']
+"En fin, yo no volveré. ",['RESTAURANT'],['negative']
+Ole ese peazo Pto.Sta.María bueno.To de lujo. ,['RESTAURANT'],['positive']
+"[…] sábado estuve cenando en el nuevo restaurante Q-Art (hacer click para ver la crítica), desastroso, no volveré.",['RESTAURANT'],['negative']
+Yo he estado varias veces y siempre hemos salido yo y mis invitados muy satisfechos.,['RESTAURANT'],['positive']
+"Sobre el tema del humo no puedo opinar ya que nunca he estado con el restaurante lleno, siempre que he ido estaba semilleno y no había ningún problema de humo.",['AMBIENCE'],['neutral']
+"Sobre la comida, qué quieres que te diga, tú mismo dices que la calidad es muy buena, con mucha variedad, y el servicio y trato bastante bueno, con muchos detalles de la casa.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"El precio para mí es muy ajustado, especialmente comparando con otros restaurantes similares, unos de los de mejor relación calidad/precio de Zaragoza sin ser una cocina especialmente innovadora ni que aspire a la máxima calidad.","['RESTAURANT', 'FOOD']","['positive', 'neutral']"
+"Respecto a lo del cava aragonés, ¡por favor no!",['DRINKS'],['negative']
+Ayer cenamos en este restaurante y realmente estaba todo exquisito.,['FOOD'],['positive']
+Las sardinas a la brasa espectaculares.,['FOOD'],['positive']
+El Minicuit igual.,['FOOD'],['positive']
+"La Tarta de manzana, hummmm.",['FOOD'],['positive']
+Realmente nos encanto el restaurante y el trato.,"['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+Totalmente aconsejable.,['RESTAURANT'],['positive']
+Enhorabuena. ,['RESTAURANT'],['positive']
+Comedor pequeño y acogedor .Cenamos muy a gusto mi pareja y yo.,['AMBIENCE'],['positive']
+"Solo puedo decir que hay calidad, el trato y la atención de los responsables del restauante inmejorable.","['SERVICE', 'FOOD']","['positive', 'positive']"
+La dorada a la plancha y las verduras con huevo muy bien cocinadas.,['FOOD'],['positive']
+"En general buen precio, buena cocina, buen servicio.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+Un acierto de elección. ,['RESTAURANT'],['positive']
+"Era la primera vez que reservaba en El Real, y la experiencia ha sido muy buena, tanto el trato amable de la señorita que sirvió nuestra mesa, como la comida que resultó estarr excelente.","['RESTAURANT', 'SERVICE', 'FOOD']","['positive', 'positive', 'positive']"
+"elegimos menu degustación, con aperitivo, entrante, un pescado, una carne y dos postres, y todos ellos muy bien presentados y realmente estaba todo buenísimo, incluso el solomillo con miel estaba en su punto.",['FOOD'],['positive']
+Fué una agradable experiencia.,['FOOD'],['positive']
+Recomendable totalmente. ,['RESTAURANT'],['positive']
+Comimos el menu y estaba exquisito y muy bien de precio.,['FOOD'],['positive']
+El local y el personal estupendos.,"['SERVICE', 'AMBIENCE']","['positive', 'positive']"
+Un acierto. ,['RESTAURANT'],['positive']
+"Francamente, no me gustó el trato.",['SERVICE'],['negative']
+"Pero además, los dos platos que yo comí estaban francamente malos, no estaban bien elaborados (tostada de escalibada con codorniz y merluza braseada).",['FOOD'],['negative']
+"Y para finalizar, cuando pedimos el café, se nos advirtió que fuéramos rápidos.En fin, muy mal servicio y mala comida.","['SERVICE', 'FOOD']","['negative', 'negative']"
+NO VOLVERÉ. ,['RESTAURANT'],['negative']
+"Muy muy bien, lo recomiendo….. ",['RESTAURANT'],['positive']
+Para guiris.,['RESTAURANT'],['negative']
+Igual fué pero ya no es.,['RESTAURANT'],['negative']
+Picapica especialidad de la casa y paella parellada para dos.,['FOOD'],['neutral']
+El pica pica de calamares congelados aceitosos.,['FOOD'],['negative']
+"Paella coloreada bañada de aceite, gamba immunda.",['FOOD'],['negative']
+Festival de congelado aceitoso y arroz pasado.,['FOOD'],['negative']
+Con cAfe y vino 70€.,['RESTAURANT'],['neutral']
+Camareros veteranos y amables.,['SERVICE'],['positive']
+Para olvidar,['RESTAURANT'],['negative']
+Hola estuvo sensacional el servicio la comida los pequeños detalles la verdad a una altura muy alta.,"['SERVICE', 'AMBIENCE', 'FOOD']","['positive', 'positive', 'positive']"
+La excusa del restaurante ha sido que el dia 1 de enero siempre hay mucho trabajo.,['RESTAURANT'],['negative']
+comi muy bien i fui muy bien atendindo el camarero que me a servito era muy atento a todo,"['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+Todo excelente excepto el lugar donde nos pusieron la mesa el día de Navidad: en la carpa!,['AMBIENCE'],['negative']
+Teniendo en cuenta que iba con 2 personas muy mayores no era el sitio idóneo donde acomodarnos.,['AMBIENCE'],['negative']
+"Nos pusieron en la terraza, sin avisar previamente.",['AMBIENCE'],['negative']
+"En la mesa faltaban 3 cubiertos, habiendo confirmado previamente el número de comensales el mismo día.",['SERVICE'],['negative']
+"Había un nivel de ruido excesivamente alto, muy molesto y del menú que contratamos casi no vimos ni un plato, prácticamente, nos trajeron prácticamente lo que quisieron.","['FOOD', 'AMBIENCE']","['negative', 'negative']"
+Buen sitio atención buenísima y mis invitados quedaron impresionados.,"['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+Todo estuvo muy bien,['RESTAURANT'],['positive']
+"De las mejores paellas que he probado, y el servicio impecable.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Es un lugar entrañable de Barcelona que hay que conocer, ambiente inigualable (pero ruidoso, no es para una cena íntima) y cosmopolita.","['RESTAURANT', 'AMBIENCE']","['positive', 'neutral']"
+"El servicio de los camareros, excelente, muy profesionales.",['SERVICE'],['positive']
+"La paella es de las buenas, aunque no la mejor de Barcelona, exceso de tomate y por tanto ácida, pero rica.",['FOOD'],['neutral']
+"Pescados mariscos y carnes excelentes pero, claro, de precios elevados.",['FOOD'],['positive']
+"Sevicio demasiado rapido, demasiada gente.","['SERVICE', 'AMBIENCE']","['negative', 'negative']"
+Da la sensación que te quieran echar!!!,['SERVICE'],['negative']
+Caótico!!,['RESTAURANT'],['negative']
+Todo perfecto.,['RESTAURANT'],['positive']
+Buen servicio y buena comida.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Muy recomendable.,['RESTAURANT'],['positive']
+Que buen recuerdo que tengo de este local!,['RESTAURANT'],['positive']
+no está mal como comienzo.,['RESTAURANT'],['neutral']
+"Primer comida de “negocio”  y mi memoria gustativa recuerda a la perfección el sabor de los pescaditos fritos, paella.. El trato del personal es notable, siempre están vigilando que no falte nada en la mesa.","['SERVICE', 'FOOD']","['positive', 'positive']"
+"Muy extrañada con los comentarios abajo, este restaurante es uno de mis favoritos, siempre que vienen amigos los llevamos allí, el trato es inmejorable y el dueño es muy querido, amable se integra con la gente.","['RESTAURANT', 'SERVICE']","['positive', 'positive']"
+"La comida siempre ha sido muy buena, creo que estas personas han tenido mala suerte porque en realidad voy dos o 3 veces al año y siempre slago contenta.",['FOOD'],['positive']
+Paella muy rica y camareros muy atentos.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Nos fuimos muy contentos.,['RESTAURANT'],['positive']
+"Nos trataron muy bien, trato humano, nos regalaron doble ronda de copas.",['SERVICE'],['positive']
+"comimos unos generosos platos de arroz y unos entrantes a base de berberechos al vapor, gamba de Huelva y variado de friduria andaluza bastante buenos.",['FOOD'],['positive']
+"pero insisto, el trato fue lo mejor..",['SERVICE'],['positive']
+Buen comer y muy buen servicio.,"['SERVICE', 'FOOD']","['positive', 'positive']"
+Lo recomiendo.,['RESTAURANT'],['positive']
+Calidad precio muy bien,['RESTAURANT'],['positive']
+"Pedimos el pica pica especialidad de la casa: lo sirveiron frio, calamares aceitosos y mal rebozados, sardinitas refritas...immundo.",['FOOD'],['negative']
+"Fué aún peor porque luego vino la paella parellada bañada en aceite, pasada de tiempo...creo que era un artoz hervido en aceite.",['FOOD'],['negative']
+Para olvidar.,['RESTAURANT'],['negative']
+"Por lo que cuesta el menu, la comida no esta nada mal.",['FOOD'],['positive']
+Si quieres “ponerte las botas” este restaurante esta bien.,['RESTAURANT'],['positive']
+Pero al margen de todo esto la relación calidad precio es muy buena.,['FOOD'],['positive']
+Quería hablar de la iluminación del local.,['AMBIENCE'],['neutral']
+La luz es blanca tipo fluorescente y da la sensación de estar comiendo en una cantina de empresa.,['AMBIENCE'],['negative']
+"No es acogedor, muy frio emocionalmente y nada intimo.",['AMBIENCE'],['negative']
+"Creo que si espaciaran un poco las mesas y cambiaran la iluminación por algo mas calido el local ganaría mucho, pero tal vez este restaurante no este dirigido al publico que se fije en los detalles y quiera estar a gusto cuando come. ",['AMBIENCE'],['negative']
+"Pues francamente, es un sitio que no vale la pena.",['RESTAURANT'],['negative']
+"Mucho cartel, muy moderno, mucho espacio, para meter tropecientas personas, pero luego lo demás deja bastante que desear.",['RESTAURANT'],['negative']
+"Recomiendo encarecidamente optar por el Wok de Via Universitas sin ninguna duda, esta cerca de ahi.",['RESTAURANT'],['positive']
+"Bastante mejor en todo, y si no recuerdo mal incluso mas barato. ",['RESTAURANT'],['positive']

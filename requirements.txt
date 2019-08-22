@@ -1,0 +1,8 @@
+Cython
+transliterate
+jieba
+JapaneseTokenizer
+faiss
+scikit-learn
+pandas
+gensim

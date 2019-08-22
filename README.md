@@ -12,3 +12,5 @@
 * bash install_external_tools.sh
 * pip install -r requirements.txt
 * bash run.sh
+* cd notebooks/ 
+* jupyter notebook
